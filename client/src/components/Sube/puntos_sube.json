@@ -1,0 +1,1578 @@
+[
+  {
+    "gid": 1,
+    "descripcion": "DELEGACIÓN MUNICIPAL",
+    "direccion": "LAS MARGARITAS Y JOSE NEGRO",
+    "horario_atencion": "08:00 A 22:00 HS",
+    "lng": -58.7816671601487,
+    "lat": -27.4486794919877
+  },
+  {
+    "gid": 2,
+    "descripcion": "KIOSCO",
+    "direccion": "MURCIA 510",
+    "horario_atencion": "08:00 A 13:00 HS",
+    "lng": -58.7867729067801,
+    "lat": -27.455194786441
+  },
+  {
+    "gid": 3,
+    "descripcion": "KIOSCO",
+    "direccion": "MALAGA 5005",
+    "horario_atencion": "09:00 A 20:00 HS",
+    "lng": -58.7877095116687,
+    "lat": -27.4556274813452
+  },
+  {
+    "gid": 4,
+    "descripcion": "AGENCIA DE LOTERÍA",
+    "direccion": "GRANADA 620",
+    "horario_atencion": "09:00 A 22:00 HS",
+    "lng": -58.7881676390615,
+    "lat": -27.4558180789622
+  },
+  {
+    "gid": 5,
+    "descripcion": "KIOSCO",
+    "direccion": "SICILIA 5249",
+    "horario_atencion": "09:00 A 20:30 HS",
+    "lng": -58.7840044634835,
+    "lat": -27.4582333927431
+  },
+  {
+    "gid": 6,
+    "descripcion": "LIBRERIA",
+    "direccion": "B-PIRAGINI NIVEYRO 250 VIV M-G C-16 0",
+    "horario_atencion": "08:00 A 20:00 HS",
+    "lng": -58.7676780656333,
+    "lat": -27.457674682552
+  },
+  {
+    "gid": 7,
+    "descripcion": "ALMACEN-AUTOSERVICIO",
+    "direccion": "LAS VIOLETAS SUR 676",
+    "horario_atencion": "07:30 A 23:20 HS",
+    "lng": -58.7750272715524,
+    "lat": -27.4622788102106
+  },
+  {
+    "gid": 8,
+    "descripcion": "KIOSCO",
+    "direccion": "LAS ORQUIDEAS 2430",
+    "horario_atencion": "10:00 A 22:00 HS",
+    "lng": -58.7776263487179,
+    "lat": -27.4627728393788
+  },
+  {
+    "gid": 9,
+    "descripcion": "KIOSCO",
+    "direccion": "ROCHA 463",
+    "horario_atencion": "00:00 A 23:59 HS",
+    "lng": -58.7845850282929,
+    "lat": -27.4632349600701
+  },
+  {
+    "gid": 10,
+    "descripcion": "KIOSCO",
+    "direccion": "AV. JUAN R. FERNANDEZ 65",
+    "horario_atencion": "00:00 A 23:59 HS",
+    "lng": -58.787083731407,
+    "lat": -27.4623936717143
+  },
+  {
+    "gid": 11,
+    "descripcion": "LIBRERIA",
+    "direccion": "AV. LIBERTAD 5227",
+    "horario_atencion": "08:00 A 12:30 HS",
+    "lng": -58.7869786722498,
+    "lat": -27.4657797397485
+  },
+  {
+    "gid": 12,
+    "descripcion": "KIOSCO",
+    "direccion": "LEVENNE 4889",
+    "horario_atencion": "08:00 A 22:00 HS",
+    "lng": -58.7933804798066,
+    "lat": -27.4711253066869
+  },
+  {
+    "gid": 13,
+    "descripcion": "KIOSCO",
+    "direccion": "AV. PRES. DR. RAUL R. ALFONSIN 5468",
+    "horario_atencion": "00:00 A 23:59 HS",
+    "lng": -58.7858293902932,
+    "lat": -27.4773812972743
+  },
+  {
+    "gid": 14,
+    "descripcion": "KIOSCO",
+    "direccion": "NARCISO LAPRIDA 4800",
+    "horario_atencion": "15:00 A 19:00 HS",
+    "lng": -58.7886051245317,
+    "lat": -27.4766405082385
+  },
+  {
+    "gid": 15,
+    "descripcion": "KIOSCO",
+    "direccion": "NARCISO LAPRIDA 1681",
+    "horario_atencion": "08:00 A 22:00 HS",
+    "lng": -58.7883041553566,
+    "lat": -27.4751150293475
+  },
+  {
+    "gid": 16,
+    "descripcion": "DELEGACIÓN MUNICIPAL",
+    "direccion": "AV. PRES. DR. RAUL R. ALFONSIN 4835",
+    "horario_atencion": "08:00 A 22:00 HS",
+    "lng": -58.7919202033307,
+    "lat": -27.4763222456012
+  },
+  {
+    "gid": 17,
+    "descripcion": "KIOSCO",
+    "direccion": "AV. PRES. DR. RAUL R. ALFONSIN 4709",
+    "horario_atencion": "08:00 A 22:00 HS",
+    "lng": -58.7937363223842,
+    "lat": -27.4758209294775
+  },
+  {
+    "gid": 18,
+    "descripcion": "KIOSCO",
+    "direccion": "AV. PRES. DR. RAUL R. ALFONSIN 4631",
+    "horario_atencion": "08:00 A 20:00 HS",
+    "lng": -58.7942785348052,
+    "lat": -27.47555548364
+  },
+  {
+    "gid": 19,
+    "descripcion": "LIBRERIA",
+    "direccion": "AV. PRES. DR. RAUL R. ALFONSIN 4299",
+    "horario_atencion": "08:00 A 13:00 HS 17:00 A 22:00 HS",
+    "lng": -58.7986260855572,
+    "lat": -27.4747596501214
+  },
+  {
+    "gid": 20,
+    "descripcion": "KIOSCO",
+    "direccion": "AV. PRES. DR. RAUL R. ALFONSIN 4247",
+    "horario_atencion": "08:00 A 22:00 HS",
+    "lng": -58.7991517055231,
+    "lat": -27.4747468261592
+  },
+  {
+    "gid": 21,
+    "descripcion": "KIOSCO",
+    "direccion": "AV. ARMENIA 4130",
+    "horario_atencion": "09:00 A 22:00 HS",
+    "lng": -58.7991989874616,
+    "lat": -27.4689493949164
+  },
+  {
+    "gid": 22,
+    "descripcion": "KIOSCO",
+    "direccion": "MARTIN FIERRO 601",
+    "horario_atencion": "08:00 A 12:00 HS 16:00 A 20:00 HS",
+    "lng": -58.799854466261,
+    "lat": -27.4680371231384
+  },
+  {
+    "gid": 23,
+    "descripcion": "KIOSCO",
+    "direccion": "AV. ARMENIA 3875",
+    "horario_atencion": "08:00 A 23:59 HS",
+    "lng": -58.8022700687067,
+    "lat": -27.4684992515727
+  },
+  {
+    "gid": 24,
+    "descripcion": "KIOSCO",
+    "direccion": "AV. ARMENIA 3853",
+    "horario_atencion": "08:00 A 22:00 HS",
+    "lng": -58.8032856683232,
+    "lat": -27.4682024486796
+  },
+  {
+    "gid": 25,
+    "descripcion": "KIOSCO",
+    "direccion": "AV. ARMENIA 3263",
+    "horario_atencion": "09:00 A 13:00 HS 18:00 A 23:59 HS",
+    "lng": -58.8079802729566,
+    "lat": -27.4669713499286
+  },
+  {
+    "gid": 26,
+    "descripcion": "KIOSCO",
+    "direccion": "AV. GREGORIO POMAR 840",
+    "horario_atencion": "09:00 A 22:00 HS",
+    "lng": -58.8057710177486,
+    "lat": -27.4701401735324
+  },
+  {
+    "gid": 27,
+    "descripcion": "KIOSCO",
+    "direccion": "AV. PRES. DR. RAUL R. ALFONSIN 3460",
+    "horario_atencion": "08:00 A 13:00 HS 16:00 A 21:00 HS",
+    "lng": -58.8088497345099,
+    "lat": -27.472121973954
+  },
+  {
+    "gid": 28,
+    "descripcion": "KIOSCO",
+    "direccion": "AYACUCHO 2950",
+    "horario_atencion": "08:00 A 23:00 HS",
+    "lng": -58.8128694309899,
+    "lat": -27.4711621885384
+  },
+  {
+    "gid": 29,
+    "descripcion": "KIOSCO",
+    "direccion": "CHACABUCO 875",
+    "horario_atencion": "08:00 A 22:00 HS",
+    "lng": -58.8121920153694,
+    "lat": -27.4692352075948
+  },
+  {
+    "gid": 30,
+    "descripcion": "KIOSCO",
+    "direccion": "AV. INDEPENDENCIA 5295",
+    "horario_atencion": "08:00 A 22:00 HS",
+    "lng": -58.7874303987629,
+    "lat": -27.4837204989967
+  },
+  {
+    "gid": 31,
+    "descripcion": "KIOSCO",
+    "direccion": "GASCON 1510",
+    "horario_atencion": "09:00 A 12:00 HS 18:00 A 20:00 HS",
+    "lng": -58.7954068250437,
+    "lat": -27.4811061504331
+  },
+  {
+    "gid": 32,
+    "descripcion": "KISOCO",
+    "direccion": "FRAY C. RODRIGUEZ 1001",
+    "horario_atencion": "08:00 A 22:00 HS",
+    "lng": -58.7961560643531,
+    "lat": -27.4783628225701
+  },
+  {
+    "gid": 33,
+    "descripcion": "KIOSCO",
+    "direccion": "AV. INDEPENDENCIA 4311",
+    "horario_atencion": "08:00 A 22:00 HS",
+    "lng": -58.799186410923,
+    "lat": -27.4811235307055
+  },
+  {
+    "gid": 34,
+    "descripcion": "KIOSCO",
+    "direccion": "LAS PIEDRAS 1502",
+    "horario_atencion": "08:00 A 23:00 HS",
+    "lng": -58.8002658478799,
+    "lat": -27.4795135049205
+  },
+  {
+    "gid": 35,
+    "descripcion": "KIOSCO",
+    "direccion": "PJE. BIRAN 1479",
+    "horario_atencion": "08:00 A 22:00 HS",
+    "lng": -58.8017080472445,
+    "lat": -27.479200023543
+  },
+  {
+    "gid": 36,
+    "descripcion": "KIOSCO",
+    "direccion": "AV. INDEPENDENCIA 3698",
+    "horario_atencion": "00:00 A 23:59 HS",
+    "lng": -58.806453223627,
+    "lat": -27.4796787239994
+  },
+  {
+    "gid": 37,
+    "descripcion": "KIOSCO",
+    "direccion": "AV. INDEPENDENCIA 3599",
+    "horario_atencion": "09:00 A 20:00 HS",
+    "lng": -58.8076185191564,
+    "lat": -27.4790980093473
+  },
+  {
+    "gid": 38,
+    "descripcion": "LIBRERIA",
+    "direccion": "SUIZA 3190",
+    "horario_atencion": "08:00 A 12:30 HS 16:00 A 20:00 HS",
+    "lng": -58.811174326673,
+    "lat": -27.4760221448565
+  },
+  {
+    "gid": 39,
+    "descripcion": "KIOSCO",
+    "direccion": "YRIGOYEN HIPOLITO 90",
+    "horario_atencion": "00:00 A 23:59 HS",
+    "lng": -58.8494797176647,
+    "lat": -27.4678321800625
+  },
+  {
+    "gid": 40,
+    "descripcion": "KIOSCO",
+    "direccion": "CALLE SGTO MAYOR ATIENZA 1585",
+    "horario_atencion": "08:00 A 21:00 HS",
+    "lng": -58.849231812882,
+    "lat": -27.4730990108312
+  },
+  {
+    "gid": 41,
+    "descripcion": "KIOSCO",
+    "direccion": "PAGO LARGO 1268",
+    "horario_atencion": "00:00 A 23:59 HS",
+    "lng": -58.8484147235002,
+    "lat": -27.4706014177316
+  },
+  {
+    "gid": 42,
+    "descripcion": "KIOSCO",
+    "direccion": "25 DE MAYO 600",
+    "horario_atencion": "09:00 A 20:00 HS",
+    "lng": -58.8426633907702,
+    "lat": -27.4635355263491
+  },
+  {
+    "gid": 43,
+    "descripcion": "LOCUTORIO",
+    "direccion": "TUCUMAN 1196",
+    "horario_atencion": "08:00 A 20:00 HS",
+    "lng": -58.8420422146303,
+    "lat": -27.4703188030148
+  },
+  {
+    "gid": 44,
+    "descripcion": "KIOSCO",
+    "direccion": "25 DE MAYO 754",
+    "horario_atencion": "08:00 A 13:00 HS 17:00 A 20:00 HS",
+    "lng": -58.840786327258,
+    "lat": -27.4638958890616
+  },
+  {
+    "gid": 45,
+    "descripcion": "KIOSCO",
+    "direccion": "MARTINEZ PLACIDO 948",
+    "horario_atencion": "08:00 A 22:00 HS",
+    "lng": -58.8380699726853,
+    "lat": -27.4616696190035
+  },
+  {
+    "gid": 46,
+    "descripcion": "KIOSCO",
+    "direccion": "MARTINEZ PLACIDO 1002",
+    "horario_atencion": "08:00 A 22:00 HS",
+    "lng": -58.8374165173441,
+    "lat": -27.4620192530011
+  },
+  {
+    "gid": 47,
+    "descripcion": "KIOSCO",
+    "direccion": "SALTA 1295",
+    "horario_atencion": "08:00 A 20:00 HS",
+    "lng": -58.8393582886058,
+    "lat": -27.4716854737666
+  },
+  {
+    "gid": 48,
+    "descripcion": "KIOSCO",
+    "direccion": "LA RIOJA 709",
+    "horario_atencion": "00:00 A 23:59 HS",
+    "lng": -58.837772990193,
+    "lat": -27.4654268909788
+  },
+  {
+    "gid": 49,
+    "descripcion": "KIOSCO",
+    "direccion": "LA RIOJA 846",
+    "horario_atencion": "00:00 A 23:59 HS",
+    "lng": -58.8381031862933,
+    "lat": -27.4668761055086
+  },
+  {
+    "gid": 50,
+    "descripcion": "KIOSCO",
+    "direccion": "LA RIOJA 1197",
+    "horario_atencion": "08:00 A 20:00 HS",
+    "lng": -58.8382979664861,
+    "lat": -27.4706322566325
+  },
+  {
+    "gid": 51,
+    "descripcion": "KIOSCO",
+    "direccion": "LA RIOJA 1233",
+    "horario_atencion": "08:00 A 20:00 HS",
+    "lng": -58.8383735146491,
+    "lat": -27.4712438458049
+  },
+  {
+    "gid": 52,
+    "descripcion": "KIOSCO",
+    "direccion": "SAN JUAN 1191",
+    "horario_atencion": "00:00 A 23:59 HS",
+    "lng": -58.8369744370359,
+    "lat": -27.4706734260498
+  },
+  {
+    "gid": 53,
+    "descripcion": "KIOSCO",
+    "direccion": "MENDOZA 1044",
+    "horario_atencion": "00:00 A 23:59 HS",
+    "lng": -58.8358262477549,
+    "lat": -27.4690711604597
+  },
+  {
+    "gid": 54,
+    "descripcion": "KIOSCO",
+    "direccion": "YRIGOYEN HIPOLITO 1199",
+    "horario_atencion": "08:00 A 22:00 HS",
+    "lng": -58.8357722092897,
+    "lat": -27.4686425153555
+  },
+  {
+    "gid": 55,
+    "descripcion": "NULL",
+    "direccion": "MENDOZA 1548",
+    "horario_atencion": "10:00 A 20:00 HS",
+    "lng": -58.836436752234,
+    "lat": -27.4747654884633
+  },
+  {
+    "gid": 56,
+    "descripcion": "KIOSCO",
+    "direccion": "CORDOBA 417",
+    "horario_atencion": "00:00 A 23:59 HS",
+    "lng": -58.8336682142607,
+    "lat": -27.4624657123663
+  },
+  {
+    "gid": 57,
+    "descripcion": "KIOSCO",
+    "direccion": "CORDOBA 462",
+    "horario_atencion": "08:00 A 20:00 HS",
+    "lng": -58.8338924330643,
+    "lat": -27.4628540085619
+  },
+  {
+    "gid": 58,
+    "descripcion": "KIOSCO",
+    "direccion": "CORDOBA 550",
+    "horario_atencion": "08:00 A 20:00 HS",
+    "lng": -58.8339590226384,
+    "lat": -27.4637579498741
+  },
+  {
+    "gid": 59,
+    "descripcion": "KIOSCO",
+    "direccion": "CORDOBA 785",
+    "horario_atencion": "08:00 A 20:00 HS",
+    "lng": -58.83411880948,
+    "lat": -27.4663754446943
+  },
+  {
+    "gid": 60,
+    "descripcion": "KIOSCO",
+    "direccion": "JUNIN 1336",
+    "horario_atencion": "08:00 A 20:00 HS",
+    "lng": -58.8339633188529,
+    "lat": -27.4677997128416
+  },
+  {
+    "gid": 61,
+    "descripcion": "KIOSCO",
+    "direccion": "CATAMARCA 2125",
+    "horario_atencion": "08:30 A 12:30 HS 17:00 A 21:00 HS",
+    "lng": -58.8339256113237,
+    "lat": -27.4758306256226
+  },
+  {
+    "gid": 62,
+    "descripcion": "KIOSCO",
+    "direccion": "SAN LORENZO 1302",
+    "horario_atencion": "08:00 A 20:00 HS",
+    "lng": -58.8322978207856,
+    "lat": -27.472516765049
+  },
+  {
+    "gid": 63,
+    "descripcion": "KIOSCO",
+    "direccion": "SAN LORENZO 940",
+    "horario_atencion": "08:00 A 22:00 HS",
+    "lng": -58.8318919387872,
+    "lat": -27.4682575411621
+  },
+  {
+    "gid": 64,
+    "descripcion": "KIOSCO",
+    "direccion": "AV TORRES DE VERA Y ARAGON 1520",
+    "horario_atencion": "00:00 A 23:59 HS",
+    "lng": -58.8306945220479,
+    "lat": -27.4613441829658
+  },
+  {
+    "gid": 65,
+    "descripcion": "KIOSCO",
+    "direccion": "SANTA FE 1298",
+    "horario_atencion": "08:00 A 20:00 HS",
+    "lng": -58.8309966927992,
+    "lat": -27.4726520584247
+  },
+  {
+    "gid": 66,
+    "descripcion": "LIBRERIA",
+    "direccion": "3 DE ABRIL AV. 1619",
+    "horario_atencion": "00:00 A 23:59 HS",
+    "lng": -58.831311403577,
+    "lat": -27.4761167940113
+  },
+  {
+    "gid": 67,
+    "descripcion": "NULL",
+    "direccion": "BELGRANO 1719",
+    "horario_atencion": "08:00 A 13:00 HS 17:00 A 22:00 HS",
+    "lng": -58.8295975741647,
+    "lat": -27.4722306190212
+  },
+  {
+    "gid": 68,
+    "descripcion": "KIOSCO",
+    "direccion": "ESPAÑA AV. 1028",
+    "horario_atencion": "08:00 A 22:00 HS",
+    "lng": -58.8294133818811,
+    "lat": -27.4695735229448
+  },
+  {
+    "gid": 69,
+    "descripcion": "KIOSCO",
+    "direccion": "JUJUY 640",
+    "horario_atencion": "08:00 A 12:30 HS 16:00 A 20:00 HS",
+    "lng": -58.827588283998,
+    "lat": -27.4655634430808
+  },
+  {
+    "gid": 70,
+    "descripcion": "SUPERMERCADO",
+    "direccion": "YRIGOYEN HIPOLITO 1773",
+    "horario_atencion": "08:00 A 20:00 HS",
+    "lng": -58.828532491163,
+    "lat": -27.469278911977
+  },
+  {
+    "gid": 71,
+    "descripcion": "KIOSCO",
+    "direccion": "QUINTANA 2100",
+    "horario_atencion": "08:00 A 22:00 HS",
+    "lng": -58.8260654368293,
+    "lat": -27.4639788327824
+  },
+  {
+    "gid": 72,
+    "descripcion": "KIOSCO",
+    "direccion": "PUJOL 1997",
+    "horario_atencion": "08:00 A 22:00 HS",
+    "lng": -58.8249354694286,
+    "lat": -27.4645437071549
+  },
+  {
+    "gid": 73,
+    "descripcion": "KIOSCO",
+    "direccion": "PELLEGRINI 1998",
+    "horario_atencion": "08:00 A 20:00 HS",
+    "lng": -58.8251452656471,
+    "lat": -27.4662895786542
+  },
+  {
+    "gid": 74,
+    "descripcion": "AGENCIA DE LOTERIA",
+    "direccion": "JUNIN 1989",
+    "horario_atencion": "09:00 A 19:00 HS",
+    "lng": -58.8255615397146,
+    "lat": -27.4684392743901
+  },
+  {
+    "gid": 75,
+    "descripcion": "LOCUTORIO",
+    "direccion": "YRIGOYEN HIPOLITO 2039",
+    "horario_atencion": "08:00 A 20:00 HS",
+    "lng": -58.8248740121688,
+    "lat": -27.4697859346911
+  },
+  {
+    "gid": 76,
+    "descripcion": "KIOSCO",
+    "direccion": "SAN MARTIN 2022",
+    "horario_atencion": "08:00 A 20:00 HS",
+    "lng": -58.8251480020942,
+    "lat": -27.470999717608
+  },
+  {
+    "gid": 77,
+    "descripcion": "COMERCIO",
+    "direccion": "BELGRANO 2110",
+    "horario_atencion": "09:00 A 19:00 HS",
+    "lng": -58.8243621685179,
+    "lat": -27.4733324752654
+  },
+  {
+    "gid": 78,
+    "descripcion": "KIOSCO",
+    "direccion": "BRASIL 1204",
+    "horario_atencion": "08:00 A 22:00 HS",
+    "lng": -58.8245670982377,
+    "lat": -27.472227172474
+  },
+  {
+    "gid": 79,
+    "descripcion": "LIBRERIA",
+    "direccion": "9 DE JULIO 2168",
+    "horario_atencion": "08:00 A 20:00 HS",
+    "lng": -58.8230480568719,
+    "lat": -27.467525113983
+  },
+  {
+    "gid": 80,
+    "descripcion": "KIOSCO",
+    "direccion": "ROCA 955",
+    "horario_atencion": "08:00 A 13:00 HS",
+    "lng": -58.8228270039104,
+    "lat": -27.4684945105514
+  },
+  {
+    "gid": 81,
+    "descripcion": "KIOSCO",
+    "direccion": "YRIGOYEN HIPOLITO 2378",
+    "horario_atencion": "08:00 A 20:00 HS",
+    "lng": -58.8230973628269,
+    "lat": -27.4700476869991
+  },
+  {
+    "gid": 82,
+    "descripcion": "AGENCIA DE LOTERIA",
+    "direccion": "SAN MARTIN 2181",
+    "horario_atencion": "08:00 A 20:00 HS",
+    "lng": -58.8234259599473,
+    "lat": -27.4710791695112
+  },
+  {
+    "gid": 83,
+    "descripcion": "KIOSCO",
+    "direccion": "PERU 1408",
+    "horario_atencion": "08:00 A 23:00 HS",
+    "lng": -58.8221524214534,
+    "lat": -27.4746767011184
+  },
+  {
+    "gid": 84,
+    "descripcion": "KIOSCO",
+    "direccion": "PERU 1314",
+    "horario_atencion": "08:00 A 13:00 HS 16:00 A 21:00 HS",
+    "lng": -58.8220752168951,
+    "lat": -27.4736786744416
+  },
+  {
+    "gid": 85,
+    "descripcion": "KIOSCO",
+    "direccion": "JUNIN 2362",
+    "horario_atencion": "08:00 A 23:59 HS",
+    "lng": -58.8208771666955,
+    "lat": -27.4690785255222
+  },
+  {
+    "gid": 86,
+    "descripcion": "LOCUTORIO",
+    "direccion": "SAN MARTIN 2433",
+    "horario_atencion": "08:00 A 12:00 HS 16:00 A 20:00 HS",
+    "lng": -58.8201143412517,
+    "lat": -27.4714427840092
+  },
+  {
+    "gid": 87,
+    "descripcion": "KIOSCO",
+    "direccion": "VELEZ SARSFIELD 1139",
+    "horario_atencion": "08:00 A 22:00 HS",
+    "lng": -58.8205314858029,
+    "lat": -27.4718536227915
+  },
+  {
+    "gid": 88,
+    "descripcion": "KIOSCO",
+    "direccion": "BELGRANO 2410",
+    "horario_atencion": "09:00 A 23:00 HS",
+    "lng": -58.8203711392871,
+    "lat": -27.4737164647038
+  },
+  {
+    "gid": 89,
+    "descripcion": "NULL",
+    "direccion": "ARTIGAS AV. 1219",
+    "horario_atencion": "08:00 A 20:00 HS",
+    "lng": -58.818682271299,
+    "lat": -27.4728770927337
+  },
+  {
+    "gid": 90,
+    "descripcion": "KIOSCO",
+    "direccion": "ARTIGAS AV. 1472",
+    "horario_atencion": "08:00 A 22:00 HS",
+    "lng": -58.8201109878903,
+    "lat": -27.4756045692297
+  },
+  {
+    "gid": 91,
+    "descripcion": "KIOSCO",
+    "direccion": "BELGRANO 2459",
+    "horario_atencion": "08:00 A 22:00 HS",
+    "lng": -58.8200967788025,
+    "lat": -27.4736410338887
+  },
+  {
+    "gid": 92,
+    "descripcion": "DELEGACION MUNICIPAL",
+    "direccion": "25 DE MAYO 1132",
+    "horario_atencion": "08:00 A 22:00 HS",
+    "lng": -58.8355559302531,
+    "lat": -27.4643675942598
+  },
+  {
+    "gid": 93,
+    "descripcion": "AGENCIA DE LOTERIA",
+    "direccion": "PELLEGRINI 1239",
+    "horario_atencion": "08:00 A 20:00 HS",
+    "lng": -58.8347444190589,
+    "lat": -27.4653876175582
+  },
+  {
+    "gid": 94,
+    "descripcion": "KIOSCO",
+    "direccion": "AV GDOR JUAN G PUJOL 1827",
+    "horario_atencion": "00:00 A 23:59 HS",
+    "lng": -58.8270152741098,
+    "lat": -27.4626943147894
+  },
+  {
+    "gid": 95,
+    "descripcion": "KIOSCO",
+    "direccion": "3 DE ABRIL AV. 309",
+    "horario_atencion": "08:00 A 22:00 HS",
+    "lng": -58.8481416671918,
+    "lat": -27.4743924883077
+  },
+  {
+    "gid": 96,
+    "descripcion": "AGENCIA DE LOTERIA",
+    "direccion": "DE LA VEGA B. 1790",
+    "horario_atencion": "09:00 A 21:00 HS",
+    "lng": -58.8472213132125,
+    "lat": -27.4766293588751
+  },
+  {
+    "gid": 97,
+    "descripcion": "KIOSCO",
+    "direccion": "CABRAL J. B. SARGENTO 1922",
+    "horario_atencion": "08:00 A 22:00 HS",
+    "lng": -58.849480867202,
+    "lat": -27.4789341044097
+  },
+  {
+    "gid": 98,
+    "descripcion": "KIOSCO",
+    "direccion": "LAMADRID 286",
+    "horario_atencion": "08:00 A 12:30 HS 16:00 A 20:00 HS",
+    "lng": -58.8490139987865,
+    "lat": -27.4801356180988
+  },
+  {
+    "gid": 99,
+    "descripcion": "KIOSCO",
+    "direccion": "NECOCHEA 646",
+    "horario_atencion": "09:00 A 23:59 HS",
+    "lng": -58.8440569706969,
+    "lat": -27.4784215694408
+  },
+  {
+    "gid": 100,
+    "descripcion": "KIOSCO",
+    "direccion": "LAMADRID 602",
+    "horario_atencion": "09:00 A 23:59 HS",
+    "lng": -58.8450359758893,
+    "lat": -27.4806222257931
+  },
+  {
+    "gid": 101,
+    "descripcion": "KIOSCO",
+    "direccion": "AV. DR. JORGE M. ROMERO 570",
+    "horario_atencion": "08:00 A 23:59 HS",
+    "lng": -58.8460391701199,
+    "lat": -27.4844181152747
+  },
+  {
+    "gid": 102,
+    "descripcion": "COMERCIO",
+    "direccion": "IBAÑEZ TTE AV. 987",
+    "horario_atencion": "08:00 A 12:30 HS 16:00 A 20:00 HS",
+    "lng": -58.8406854260895,
+    "lat": -27.4849711152388
+  },
+  {
+    "gid": 103,
+    "descripcion": "KIOSCO",
+    "direccion": "TENIENTE 1RO IBAÑEZ 1268",
+    "horario_atencion": "00:00 A 23:59 HS",
+    "lng": -58.8381774945694,
+    "lat": -27.4852463500301
+  },
+  {
+    "gid": 104,
+    "descripcion": "KIOSCO",
+    "direccion": "PERUGORRIA 1336",
+    "horario_atencion": "08:00 A 12:00 HS 16:00 A 20:00 HS",
+    "lng": -58.835763452662,
+    "lat": -27.4843481291038
+  },
+  {
+    "gid": 105,
+    "descripcion": "KIOSCO",
+    "direccion": "MADARIAGA 1209",
+    "horario_atencion": "08:00 A 22:00 HS",
+    "lng": -58.8373049145501,
+    "lat": -27.482906257922
+  },
+  {
+    "gid": 106,
+    "descripcion": "KIOSCO",
+    "direccion": "MADARIAGA 2165",
+    "horario_atencion": "08:00 A 22:00 HS",
+    "lng": -58.8314443982605,
+    "lat": -27.4835265220765
+  },
+  {
+    "gid": 107,
+    "descripcion": "ALMACEN-AUTOSERVICIO",
+    "direccion": "GUTEMBERG 1887",
+    "horario_atencion": "08:00 A 12:00 HS 16:00 A 20:00 HS",
+    "lng": -58.8317089016476,
+    "lat": -27.47968385257
+  },
+  {
+    "gid": 108,
+    "descripcion": "KIOSCO",
+    "direccion": "VARGAS GOMEZ 1835",
+    "horario_atencion": "08:00 A 22:00 HS",
+    "lng": -58.8342225942307,
+    "lat": -27.4788976656328
+  },
+  {
+    "gid": 109,
+    "descripcion": "ALMACEN-AUTOSERVICIO",
+    "direccion": "LAVALLE 1597",
+    "horario_atencion": "09:00 A 20:00 HS",
+    "lng": -58.831596177938,
+    "lat": -27.477544081601
+  },
+  {
+    "gid": 110,
+    "descripcion": "DELEGACION MUNICIPAL",
+    "direccion": "CALLE PIO XII Y LAVALLE",
+    "horario_atencion": "08:00 A 22:00 HS",
+    "lng": -58.8365746595875,
+    "lat": -27.4770614737189
+  },
+  {
+    "gid": 111,
+    "descripcion": "FARMACIA",
+    "direccion": "3 DE ABRIL AV. 1466",
+    "horario_atencion": "08:00 A 13:00 HS 16:00 A 21:00 HS",
+    "lng": -58.8331477529291,
+    "lat": -27.4764086208825
+  },
+  {
+    "gid": 112,
+    "descripcion": "KIOSCO",
+    "direccion": "3 DE ABRIL AV. 1716",
+    "horario_atencion": "00:00 A 23:59 HS",
+    "lng": -58.8298680693624,
+    "lat": -27.4768388178258
+  },
+  {
+    "gid": 113,
+    "descripcion": "KIOSCO",
+    "direccion": "3 DE ABRIL AV. 1356",
+    "horario_atencion": "00:00 A 23:59 HS",
+    "lng": -58.8346215620391,
+    "lat": -27.4762316342584
+  },
+  {
+    "gid": 114,
+    "descripcion": "KIOSCO",
+    "direccion": "ALBERDI 2506",
+    "horario_atencion": "08:00 A 23:59 HS",
+    "lng": -58.8477301534135,
+    "lat": -27.4862193211837
+  },
+  {
+    "gid": 115,
+    "descripcion": "KIOSCO",
+    "direccion": "DE LA VEGA B. 2541",
+    "horario_atencion": "08:00 A 13:00 HS 17:00 A 22:00 HS",
+    "lng": -58.848537460985,
+    "lat": -27.4857599539396
+  },
+  {
+    "gid": 116,
+    "descripcion": "NULL",
+    "direccion": "COLON AV. 601",
+    "horario_atencion": "08:00 A 12:30 HS 16:00 A 20:00 HS",
+    "lng": -58.8456199790546,
+    "lat": -27.4881242840527
+  },
+  {
+    "gid": 117,
+    "descripcion": "KIOSCO",
+    "direccion": "VIDAL JUAN RAMON AV. 1996",
+    "horario_atencion": "09:00 A 20:00 HS",
+    "lng": -58.8439591804856,
+    "lat": -27.4894379030894
+  },
+  {
+    "gid": 118,
+    "descripcion": "LIBRERIA",
+    "direccion": "IRALA 2868",
+    "horario_atencion": "08:00 A 12:30 HS 16:30 A 21:00 HS",
+    "lng": -58.8435467248328,
+    "lat": -27.4891681632405
+  },
+  {
+    "gid": 119,
+    "descripcion": "KIOSCO",
+    "direccion": "COLON AV. 1147",
+    "horario_atencion": "08:00 A 22:00 HS",
+    "lng": -58.8374162876976,
+    "lat": -27.4891046031106
+  },
+  {
+    "gid": 120,
+    "descripcion": "NULL",
+    "direccion": "COMODORO RIVADAVIA 1698",
+    "horario_atencion": "08:00 A 18:00 HS",
+    "lng": -58.8322961809309,
+    "lat": -27.4905763892298
+  },
+  {
+    "gid": 121,
+    "descripcion": "KIOSCO",
+    "direccion": "VIDAL JOSE RAMON 3490",
+    "horario_atencion": "08:30 A 12:30 HS",
+    "lng": -58.8411419670345,
+    "lat": -27.4955432023098
+  },
+  {
+    "gid": 122,
+    "descripcion": "KIOSCO",
+    "direccion": "MAGALLANES 1390",
+    "horario_atencion": "08:00 A 22:00 HS",
+    "lng": -58.8358236946755,
+    "lat": -27.4931349015642
+  },
+  {
+    "gid": 123,
+    "descripcion": "LOCUTORIO",
+    "direccion": "GUTIERREZ 3143",
+    "horario_atencion": "08:00 A 12:30 HS 18:00 A 21:30 HS",
+    "lng": -58.8345094690928,
+    "lat": -27.4937328908029
+  },
+  {
+    "gid": 124,
+    "descripcion": "KIOSCO",
+    "direccion": "TARAGUI 1482",
+    "horario_atencion": "07:00 A 23:00 HS",
+    "lng": -58.8358196968139,
+    "lat": -27.4957153353747
+  },
+  {
+    "gid": 125,
+    "descripcion": "KIOSCO",
+    "direccion": "SARMIENTO AV. 2956",
+    "horario_atencion": "00:00 A 23:59 HS",
+    "lng": -58.8321653092281,
+    "lat": -27.4954060227176
+  },
+  {
+    "gid": 126,
+    "descripcion": "DELEGACION MUNICIPAL",
+    "direccion": "PROFESOR PEDRO CRESPO Y COSQUIN",
+    "horario_atencion": "08:00 A 22:00 HS",
+    "lng": -58.8293248203407,
+    "lat": -27.494178601612
+  },
+  {
+    "gid": 127,
+    "descripcion": "KIOSCO",
+    "direccion": "BONASERE DR. V. 2800",
+    "horario_atencion": "08:00 A 20:00 HS",
+    "lng": -58.8297966130443,
+    "lat": -27.4918407983544
+  },
+  {
+    "gid": 128,
+    "descripcion": "KIOSCO",
+    "direccion": "2 DE ABRIL 1900",
+    "horario_atencion": "08:30 A 22:00 HS",
+    "lng": -58.8280566230986,
+    "lat": -27.4926119071468
+  },
+  {
+    "gid": 129,
+    "descripcion": "FARMACIA",
+    "direccion": "AV. PATAGONIA",
+    "horario_atencion": "08:00 A 20:00 HS",
+    "lng": -58.8264005806346,
+    "lat": -27.4920134757689
+  },
+  {
+    "gid": 130,
+    "descripcion": "KIOSCO",
+    "direccion": "CONCORDIA 2210",
+    "horario_atencion": "08:00 A 22:00 HS",
+    "lng": -58.8249904353453,
+    "lat": -27.4931937497397
+  },
+  {
+    "gid": 131,
+    "descripcion": "NULL",
+    "direccion": "CRUZ DEL EJE Y JOSE HERNANDEZ 2300",
+    "horario_atencion": "09:00 A 18:00 HS",
+    "lng": -58.823666272984,
+    "lat": -27.4985318566066
+  },
+  {
+    "gid": 132,
+    "descripcion": "NULL",
+    "direccion": "TULIO MARIÑO- MNZ H- CASA 203",
+    "horario_atencion": "08:00 A 22:00 HS",
+    "lng": -58.8331315805513,
+    "lat": -27.50239709884
+  },
+  {
+    "gid": 133,
+    "descripcion": "KIOSCO",
+    "direccion": "237 VIVIENDAS MZNA J CASA 395",
+    "horario_atencion": "08:00 A 12:30 HS 16:00 A 20:00 HS",
+    "lng": -58.8329250840139,
+    "lat": -27.5038662304583
+  },
+  {
+    "gid": 134,
+    "descripcion": "KIOSCO",
+    "direccion": "100 VIV. CSA 20 MZA: B",
+    "horario_atencion": "08:00 A 23:00 HS",
+    "lng": -58.8332556117099,
+    "lat": -27.5062765740069
+  },
+  {
+    "gid": 135,
+    "descripcion": "KIOSCO",
+    "direccion": "MAIPU AV. 491",
+    "horario_atencion": "08:00 A 20:00 HS",
+    "lng": -58.8264279209475,
+    "lat": -27.482066014171
+  },
+  {
+    "gid": 136,
+    "descripcion": "KIOSCO",
+    "direccion": "MAIPU AV. 691",
+    "horario_atencion": "08:00 A 22:00 HS",
+    "lng": -58.824721462595,
+    "lat": -27.4841882415236
+  },
+  {
+    "gid": 137,
+    "descripcion": "KIOSCO",
+    "direccion": "LOZA GOBERNADOR M. L. 1871",
+    "horario_atencion": "08:00 A 22:00 HS",
+    "lng": -58.8227423220276,
+    "lat": -27.480927871853
+  },
+  {
+    "gid": 138,
+    "descripcion": "KIOSCO",
+    "direccion": "PAZ GRAL 2550",
+    "horario_atencion": "00:00 A 23:59 HS",
+    "lng": -58.820443640521,
+    "lat": -27.4799717034035
+  },
+  {
+    "gid": 139,
+    "descripcion": "KIOSCO",
+    "direccion": "LAS HERAS 2614",
+    "horario_atencion": "08:00 A 23:59 HS",
+    "lng": -58.8212269801474,
+    "lat": -27.4822156015367
+  },
+  {
+    "gid": 140,
+    "descripcion": "KIOSCO",
+    "direccion": "MAIPU AV. 802",
+    "horario_atencion": "08:00 A 22:00 HS",
+    "lng": -58.8233071650941,
+    "lat": -27.4861755065281
+  },
+  {
+    "gid": 141,
+    "descripcion": "KIOSCO",
+    "direccion": "MAIPU AV. 824",
+    "horario_atencion": "08:00 A 22:00 HS",
+    "lng": -58.8231380462398,
+    "lat": -27.4863656760201
+  },
+  {
+    "gid": 142,
+    "descripcion": "KIOSCO",
+    "direccion": "RODRIGUEZ PEÑA 2185",
+    "horario_atencion": "09:00 A 23:59 HS",
+    "lng": -58.8195720973467,
+    "lat": -27.4864109560835
+  },
+  {
+    "gid": 143,
+    "descripcion": "ALMACEN-AUTOSERVICIO",
+    "direccion": "REGIMIENTO CAZADORES CORRENTINOS AV 2696",
+    "horario_atencion": "08:00 A 22:00 HS",
+    "lng": -58.8182439543891,
+    "lat": -27.4864151680231
+  },
+  {
+    "gid": 144,
+    "descripcion": "KIOSCO",
+    "direccion": "NUESTRA SEÑORA DE LA ASUNCION 2757",
+    "horario_atencion": "07:00 A 20:00 HS",
+    "lng": -58.8176455488028,
+    "lat": -27.4900214391746
+  },
+  {
+    "gid": 145,
+    "descripcion": "KIOSCO",
+    "direccion": "MAIPU AV. 1491",
+    "horario_atencion": "08:00 A 13:00 HS",
+    "lng": -58.819777839554,
+    "lat": -27.491131073342
+  },
+  {
+    "gid": 146,
+    "descripcion": "KIOSCO",
+    "direccion": "MAIPU AV. 1696",
+    "horario_atencion": "00:00 A 23:59 HS",
+    "lng": -58.8181766772263,
+    "lat": -27.4939353455828
+  },
+  {
+    "gid": 147,
+    "descripcion": "COMERCIO",
+    "direccion": "ACONCAGUA 2980",
+    "horario_atencion": "08:00 A 20:00 HS",
+    "lng": -58.8168190519853,
+    "lat": -27.4987160562992
+  },
+  {
+    "gid": 148,
+    "descripcion": "KIOSCO",
+    "direccion": "MAIPU AV. 2500",
+    "horario_atencion": "09:00 A 21:00 HS",
+    "lng": -58.8149501247666,
+    "lat": -27.4980658249566
+  },
+  {
+    "gid": 149,
+    "descripcion": "AGENCIA DE LOTERIA",
+    "direccion": "AV. MAIPU 3215",
+    "horario_atencion": "09:00 A 18:00 HS",
+    "lng": -58.8126698387198,
+    "lat": -27.5020723058365
+  },
+  {
+    "gid": 150,
+    "descripcion": "KIOSCO",
+    "direccion": "ALTA GRACIA 292",
+    "horario_atencion": "08:00 A 22:00 HS",
+    "lng": -58.8153128458966,
+    "lat": -27.508120928319
+  },
+  {
+    "gid": 151,
+    "descripcion": "KIOSCO",
+    "direccion": "LORETO 3114",
+    "horario_atencion": "08:00 A 22:00 HS",
+    "lng": -58.8105008525302,
+    "lat": -27.5058494965453
+  },
+  {
+    "gid": 152,
+    "descripcion": "FARMACIA",
+    "direccion": "AV. MAIPU 3619",
+    "horario_atencion": "08:00 A 13:00 HS 18:00 A 21:00 HS",
+    "lng": -58.8108935370827,
+    "lat": -27.506144438458
+  },
+  {
+    "gid": 153,
+    "descripcion": "KIOSCO",
+    "direccion": "LORETO 3138",
+    "horario_atencion": "00:00 A 23:59 HS",
+    "lng": -58.8090552528762,
+    "lat": -27.5058371282542
+  },
+  {
+    "gid": 154,
+    "descripcion": "COMERCIO",
+    "direccion": "CALLE P NERUDA Y GUAYQUIRARO",
+    "horario_atencion": "08:00 A 12:30 HS 16:00 A 20:00 HS",
+    "lng": -58.8024059490209,
+    "lat": -27.5122025686454
+  },
+  {
+    "gid": 155,
+    "descripcion": "KIOSCO",
+    "direccion": "LAVALLE 3305",
+    "horario_atencion": "08:00 A 22:00 HS",
+    "lng": -58.8113919125506,
+    "lat": -27.4800441384632
+  },
+  {
+    "gid": 156,
+    "descripcion": "KIOSCO",
+    "direccion": "SAAVEDRA 2090",
+    "horario_atencion": "08:00 A 22:00 HS",
+    "lng": -58.8128653112694,
+    "lat": -27.4842856079259
+  },
+  {
+    "gid": 157,
+    "descripcion": "KIOSCO",
+    "direccion": "REGIMIENTO CAZADORES CORRENTINOS AV 3230",
+    "horario_atencion": "08:00 A 13:00 HS 16:00 A 21:00 HS",
+    "lng": -58.8127481447646,
+    "lat": -27.4870792565278
+  },
+  {
+    "gid": 158,
+    "descripcion": "NULL",
+    "direccion": "REGIMIENTO CAZADORES CORRENTINOS AV 3509",
+    "horario_atencion": "08:00 A 12:00 HS 16:00 A 20:00 HS",
+    "lng": -58.809960446979,
+    "lat": -27.4868065741267
+  },
+  {
+    "gid": 159,
+    "descripcion": "KIOSCO",
+    "direccion": "RESOAGLI 1956",
+    "horario_atencion": "09:00 A 23:59 HS",
+    "lng": -58.8046318015098,
+    "lat": -27.4835752436848
+  },
+  {
+    "gid": 160,
+    "descripcion": "AGENCIA DE LOTERIA",
+    "direccion": "PERGAMINO 3230",
+    "horario_atencion": "08:00 A 21:00 HS",
+    "lng": -58.8123745291951,
+    "lat": -27.4954021401245
+  },
+  {
+    "gid": 161,
+    "descripcion": "KIOSCO",
+    "direccion": "PITAGORAS 3101",
+    "horario_atencion": "08:00 A 22:00 HS",
+    "lng": -58.8059008139726,
+    "lat": -27.4908911133751
+  },
+  {
+    "gid": 162,
+    "descripcion": "KIOSCO",
+    "direccion": "CARTAGENA 4092",
+    "horario_atencion": "09:00 A 22:00 HS",
+    "lng": -58.8039300631319,
+    "lat": -27.4943732077926
+  },
+  {
+    "gid": 163,
+    "descripcion": "KIOSCO",
+    "direccion": "LAS PIEDRAS 2299",
+    "horario_atencion": "08:00 A 21:00 HS",
+    "lng": -58.8016507668216,
+    "lat": -27.4881945081878
+  },
+  {
+    "gid": 164,
+    "descripcion": "KIOSCO",
+    "direccion": "MEDRANO 2442",
+    "horario_atencion": "00:00 A 23:59 HS",
+    "lng": -58.7999066123412,
+    "lat": -27.4898164462823
+  },
+  {
+    "gid": 165,
+    "descripcion": "KIOSCO",
+    "direccion": "JOSE DARRAGUEIRA 20",
+    "horario_atencion": "08:00 A 14:00 HS 17:00 A 23:59 HS",
+    "lng": -58.7994945212517,
+    "lat": -27.4966063012574
+  },
+  {
+    "gid": 166,
+    "descripcion": "KIOSCO",
+    "direccion": "CALLE 471",
+    "horario_atencion": "09:00 A 20:00 HS",
+    "lng": -58.8046050997128,
+    "lat": -27.5035715986664
+  },
+  {
+    "gid": 167,
+    "descripcion": "KIOSCO",
+    "direccion": "PRES. FRONDIZI 3950",
+    "horario_atencion": "08:00 A 22:00 HS",
+    "lng": -58.7977092906266,
+    "lat": -27.5051593692043
+  },
+  {
+    "gid": 168,
+    "descripcion": "KIOSCO",
+    "direccion": "LORETO 22",
+    "horario_atencion": "09:00 A 20:00 HS",
+    "lng": -58.7974665887577,
+    "lat": -27.5058478650535
+  },
+  {
+    "gid": 169,
+    "descripcion": "KIOSCO",
+    "direccion": "CALLE CANGALLO",
+    "horario_atencion": "08:00 A 22:00 HS",
+    "lng": -58.7968239612422,
+    "lat": -27.5084921407332
+  },
+  {
+    "gid": 170,
+    "descripcion": "KIOSCO",
+    "direccion": "CALLE CANGALLO",
+    "horario_atencion": "08:00 A 12:30 HS 16:00 A 20:00 HS",
+    "lng": -58.7946857597318,
+    "lat": -27.5088572925906
+  },
+  {
+    "gid": 171,
+    "descripcion": "ALMACEN-AUTOSERVICIO",
+    "direccion": "CALLE 468",
+    "horario_atencion": "10:00 A 14:00 HS 17:00 A 20:00 HS",
+    "lng": -58.7941482533957,
+    "lat": -27.5081671567434
+  },
+  {
+    "gid": 172,
+    "descripcion": "KIOSCO",
+    "direccion": "CALLE 535 4155",
+    "horario_atencion": "09:00 A 23:59 HS",
+    "lng": -58.7922329579322,
+    "lat": -27.5080840389314
+  },
+  {
+    "gid": 173,
+    "descripcion": "DELEGACION MUNICIPAL",
+    "direccion": "LAS HERAS Y MEDRANO",
+    "horario_atencion": "08:00 A 22:00 HS",
+    "lng": -58.7990702164278,
+    "lat": -27.4854866146951
+  },
+  {
+    "gid": 174,
+    "descripcion": "KIOSCO",
+    "direccion": "JUAN DOMINGO PERON 5100",
+    "horario_atencion": "00:00 A 00:00 HS",
+    "lng": -58.7906445196168,
+    "lat": -27.4891224055482
+  },
+  {
+    "gid": 175,
+    "descripcion": "KIOSCO",
+    "direccion": "MANZANA K 31",
+    "horario_atencion": "08:00 A 22:00 HS",
+    "lng": -58.7904366295865,
+    "lat": -27.4934483207565
+  },
+  {
+    "gid": 176,
+    "descripcion": "KIOSCO",
+    "direccion": "SAN FRANCISCO DE ASIS 5000",
+    "horario_atencion": "08:00 A 22:00 HS",
+    "lng": -58.7883564116055,
+    "lat": -27.4953536536666
+  },
+  {
+    "gid": 177,
+    "descripcion": "KIOSCO",
+    "direccion": "PAUL GROUSSAC",
+    "horario_atencion": "09:00 A 18:00 HS",
+    "lng": -58.7892864377204,
+    "lat": -27.4979092706245
+  },
+  {
+    "gid": 178,
+    "descripcion": "KIOSCO",
+    "direccion": "JUAN DOMINGO PERON ESQ CNEL. ARTAZA",
+    "horario_atencion": "08:00 A 12:30 HS 16:00 A 20:00 HS",
+    "lng": -58.78291496581,
+    "lat": -27.4901753173853
+  },
+  {
+    "gid": 179,
+    "descripcion": "KIOSCO",
+    "direccion": "MNZA J 17",
+    "horario_atencion": "08:00 A 22:00 HS",
+    "lng": -58.7836950688794,
+    "lat": -27.4901770221991
+  },
+  {
+    "gid": 180,
+    "descripcion": "LOCUTORIO",
+    "direccion": "PTE J D PERON 5600",
+    "horario_atencion": "08:00 A 13:00 HS 18:00 A 21:00 HS",
+    "lng": -58.7833022901381,
+    "lat": -27.4904242484111
+  },
+  {
+    "gid": 181,
+    "descripcion": "ESTACION DE SERVICIO",
+    "direccion": "NULLRUTA NAC. 12 1023",
+    "horario_atencion": "08:00 A 20:00 HS",
+    "lng": -58.7797371825417,
+    "lat": -27.4906897322768
+  },
+  {
+    "gid": 182,
+    "descripcion": "KIOSCO",
+    "direccion": "SIRACUSA 5612",
+    "horario_atencion": "08:00 A 22:00 HS",
+    "lng": -58.7843769136684,
+    "lat": -27.4939019508276
+  },
+  {
+    "gid": 183,
+    "descripcion": "KIOSCO",
+    "direccion": "TURIN 2950",
+    "horario_atencion": "08:00 A 22:00 HS",
+    "lng": -58.7849636154932,
+    "lat": -27.4995034327828
+  },
+  {
+    "gid": 184,
+    "descripcion": "KIOSCO",
+    "direccion": "TURIN 1901",
+    "horario_atencion": "08:00 A 22:00 HS",
+    "lng": -58.785609366221,
+    "lat": -27.5054788560019
+  },
+  {
+    "gid": 185,
+    "descripcion": "KIOSCO",
+    "direccion": "CUBA 5900",
+    "horario_atencion": "10:00 A 14:00 HS 17:00 A 20:00 HS",
+    "lng": -58.7839841557006,
+    "lat": -27.5056283549747
+  },
+  {
+    "gid": 186,
+    "descripcion": "COMERCIO",
+    "direccion": "200 VIV. GRUPO 2 MANZANA 2 CASA 28 2614",
+    "horario_atencion": "08:00 A 14:00 HS 17:00 A 22:00 HS",
+    "lng": -58.7798644546859,
+    "lat": -27.5051574660726
+  },
+  {
+    "gid": 187,
+    "descripcion": "LIBRERIA",
+    "direccion": "JOSE MARIA AGUIRRE 5400",
+    "horario_atencion": "08:00 A 21:00 HS",
+    "lng": -58.7909349827432,
+    "lat": -27.5230317466179
+  },
+  {
+    "gid": 188,
+    "descripcion": "KIOSCO",
+    "direccion": "VERONA 6700",
+    "horario_atencion": "08:00 A 22:00 HS",
+    "lng": -58.7704865111235,
+    "lat": -27.4973658673431
+  },
+  {
+    "gid": 189,
+    "descripcion": "KIOSCO",
+    "direccion": "RUTA PROVINCIAL 5 KM 0245",
+    "horario_atencion": "08:00 A 12:30 HS 16:00 A 20:00 HS",
+    "lng": -58.7787131823937,
+    "lat": -27.4844590222325
+  },
+  {
+    "gid": 190,
+    "descripcion": "ESTACION DE SERVICIO",
+    "direccion": "RUTA NACIONAL 5",
+    "horario_atencion": "08:00 A 20:00 HS",
+    "lng": -58.7702179393333,
+    "lat": -27.4859150315592
+  },
+  {
+    "gid": 191,
+    "descripcion": "KIOSCO",
+    "direccion": "CABRAL J. B. SARGENTO 1986",
+    "horario_atencion": "00:00 A 23:59 HS",
+    "lng": -58.8174248639577,
+    "lat": -27.4656394793403
+  },
+  {
+    "gid": 192,
+    "descripcion": "KIOSCO",
+    "direccion": "RUIZ GOBERNADOR AV. 2253",
+    "horario_atencion": "00:00 A 23:59 HS",
+    "lng": -58.8213945341304,
+    "lat": -27.4665263429754
+  },
+  {
+    "gid": 193,
+    "descripcion": "KIOSCO",
+    "direccion": "BAIBIENE CORONEL S. 2110",
+    "horario_atencion": "08:30 A 23:30 HS",
+    "lng": -58.823135324835,
+    "lat": -27.4629319956748
+  },
+  {
+    "gid": 194,
+    "descripcion": "KIOSCO",
+    "direccion": "ROLON GDOR JOSE MARIA 2136",
+    "horario_atencion": "00:00 A 23:59 HS",
+    "lng": -58.8236206291727,
+    "lat": -27.4613661922569
+  },
+  {
+    "gid": 195,
+    "descripcion": "ALMACEN-AUTOSERVICIO",
+    "direccion": "LOMBARDERO 01",
+    "horario_atencion": "10:00 A 19:00 HS",
+    "lng": -58.7905050262501,
+    "lat": -27.5473408148796
+  },
+  {
+    "gid": 196,
+    "descripcion": "KIOSCO",
+    "direccion": "PACA",
+    "horario_atencion": "08:00 A 22:00 HS",
+    "lng": -58.7377712157855,
+    "lat": -27.4568690311221
+  },
+  {
+    "gid": 197,
+    "descripcion": "NULL",
+    "direccion": "ESTADO DE ISRAEL 2758",
+    "horario_atencion": "08:00 A 23:59 HS",
+    "lng": -58.816641468495,
+    "lat": -27.4727144385011
+  }
+]

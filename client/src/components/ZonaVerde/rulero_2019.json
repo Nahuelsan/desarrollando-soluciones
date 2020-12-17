@@ -1,0 +1,2012 @@
+[
+  {
+    "fecha": "2019-01-04",
+    "zona": "Molina Punta",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 24975,
+    "kg_residuos_secos_reciclables": "24,975",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-01-11",
+    "zona": "Molina Punta",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 17290,
+    "kg_residuos_secos_reciclables": "17,29",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-01-14",
+    "zona": "Juan de Vera",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 44300,
+    "kg_residuos_secos_reciclables": "44,3",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-01-21",
+    "zona": "Juan de Vera",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 55870,
+    "kg_residuos_secos_reciclables": "55,87",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-01-25",
+    "zona": "Molina Punta",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 33865,
+    "kg_residuos_secos_reciclables": "33,865",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-01-25",
+    "zona": "Delegacion Dr. monta�a",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": 6,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-01-28",
+    "zona": "Juan de Vera",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 107260,
+    "kg_residuos_secos_reciclables": "107,26",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-02-01",
+    "zona": "Molina Punta",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 18110,
+    "kg_residuos_secos_reciclables": "18,11",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-02-03",
+    "zona": "Juan de Vera",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 9500,
+    "kg_residuos_secos_reciclables": "9,5",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-02-04",
+    "zona": "Juan de Vera",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 135700,
+    "kg_residuos_secos_reciclables": "135,7",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-02-08",
+    "zona": "Molina Punta",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 21620,
+    "kg_residuos_secos_reciclables": "21,62",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": "ojo! Verif. Fechas"
+  },
+  {
+    "fecha": "2019-02-08",
+    "zona": "Juan de Vera",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 33975,
+    "kg_residuos_secos_reciclables": "33,975",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-02-08",
+    "zona": "UNNE - FaCENA",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": "3,11",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-02-15",
+    "zona": "Molina Punta",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 30905,
+    "kg_residuos_secos_reciclables": "30,905",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-02-15",
+    "zona": "UNNE - FaCENA",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": "2,14",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-02-18",
+    "zona": "Molina Punta",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 34087,
+    "kg_residuos_secos_reciclables": "34,087",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-02-18",
+    "zona": "Juan de Vera",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 31465,
+    "kg_residuos_secos_reciclables": "31,465",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-02-19",
+    "zona": "Molina Punta",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 9075,
+    "kg_residuos_secos_reciclables": "9,075",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-02-22",
+    "zona": "Molina Punta",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 19260,
+    "kg_residuos_secos_reciclables": "19,26",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-02-22",
+    "zona": "Juan de Vera",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 19260,
+    "kg_residuos_secos_reciclables": "19,26",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-02-25",
+    "zona": "Juan de Vera",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "41744,98",
+    "kg_residuos_secos_reciclables": "41,74498",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-03-01",
+    "zona": "Molina Punta",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 33265,
+    "kg_residuos_secos_reciclables": "33,265",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-03-01",
+    "zona": "UNNE - FaCENA",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": "1,735",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-03-13",
+    "zona": "Molina Punta",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 19864,
+    "kg_residuos_secos_reciclables": "19,864",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-03-20",
+    "zona": "Juan de Vera",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 23639,
+    "kg_residuos_secos_reciclables": "23,639",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-04-08",
+    "zona": "Juan de Vera",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 32415,
+    "kg_residuos_secos_reciclables": "32,415",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-04-12",
+    "zona": "UNNE - FaCENA",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": "2,66",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-04-15",
+    "zona": "Juan de Vera",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 35705,
+    "kg_residuos_secos_reciclables": "35,705",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-04-25",
+    "zona": "Juan de Vera",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 37416,
+    "kg_residuos_secos_reciclables": "37,416",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-04-26",
+    "zona": "Molina Punta",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 81445,
+    "kg_residuos_secos_reciclables": "81,445",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-04-26",
+    "zona": "Molina Punta",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 31865,
+    "kg_residuos_secos_reciclables": "31,865",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-04-29",
+    "zona": "Juan de Vera",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 15690,
+    "kg_residuos_secos_reciclables": "15,69",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-05-01",
+    "zona": "Molina Punta",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 19275,
+    "kg_residuos_secos_reciclables": "19,275",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-05-03",
+    "zona": "Molina Punta",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 37411,
+    "kg_residuos_secos_reciclables": "37,411",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-05-13",
+    "zona": "Juan de Vera",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 46131,
+    "kg_residuos_secos_reciclables": "46,131",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-05-17",
+    "zona": "Molina Punta",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 64908,
+    "kg_residuos_secos_reciclables": "64,908",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-05-18",
+    "zona": "Molina Punta",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 43580,
+    "kg_residuos_secos_reciclables": "43,58",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-05-24",
+    "zona": "Molina Punta",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 11425,
+    "kg_residuos_secos_reciclables": "11,425",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-05-24",
+    "zona": "UNNE - FaCENA",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": "2,7",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-05-27",
+    "zona": "Juan de Vera",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 9855,
+    "kg_residuos_secos_reciclables": "9,855",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-06-03",
+    "zona": "Juan de Vera",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 23645,
+    "kg_residuos_secos_reciclables": "23,645",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-06-07",
+    "zona": "Molina Punta",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 86418,
+    "kg_residuos_secos_reciclables": "86,418",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-06-08",
+    "zona": "Molina Punta",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 23340,
+    "kg_residuos_secos_reciclables": "23,34",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-06-10",
+    "zona": "Juan de Vera",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 20691,
+    "kg_residuos_secos_reciclables": "20,691",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-06-11",
+    "zona": "Delegacion Dr. monta�a",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": "10,5",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-06-12",
+    "zona": "Molina Punta",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 64695,
+    "kg_residuos_secos_reciclables": "64,695",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-06-17",
+    "zona": "Molina Punta",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 6510,
+    "kg_residuos_secos_reciclables": "6,51",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-06-19",
+    "zona": "Delegacion Dr. monta�a",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": "22,5",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-06-26",
+    "zona": "Molina Punta",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 3775,
+    "kg_residuos_secos_reciclables": "3,775",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-07-01",
+    "zona": "Juan de Vera",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 35850,
+    "kg_residuos_secos_reciclables": "35,85",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-07-06",
+    "zona": "Juan de Vera",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 47825,
+    "kg_residuos_secos_reciclables": "47,825",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-07-13",
+    "zona": "Molina Punta",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 78805,
+    "kg_residuos_secos_reciclables": "78,805",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-07-15",
+    "zona": "Juan de Vera",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 78136,
+    "kg_residuos_secos_reciclables": "78,136",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-07-19",
+    "zona": "Molina Punta",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 31825,
+    "kg_residuos_secos_reciclables": "31,825",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-07-19",
+    "zona": "Delegacion 17 de Agosto",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": 2,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-07-19",
+    "zona": "Delegacion San Ger�nimo",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": "1,5",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-07-22",
+    "zona": "Juan de Vera",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 18875,
+    "kg_residuos_secos_reciclables": "18,875",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-07-22",
+    "zona": "Juan de Vera",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 44860,
+    "kg_residuos_secos_reciclables": "44,86",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-07-22",
+    "zona": "Delegacion 17 de Agosto",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": 3,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-07-22",
+    "zona": "Delegacion Laguna Seca",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": "1,5",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-07-22",
+    "zona": "Delegacion Dr. monta�a",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": "0,5",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-07-22",
+    "zona": "Delegacion Dr. Nicolini",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": 6,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-07-29",
+    "zona": "Juan de Vera",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 7950,
+    "kg_residuos_secos_reciclables": "7,95",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-07-29",
+    "zona": "Juan de Vera",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 22360,
+    "kg_residuos_secos_reciclables": "22,36",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-07-29",
+    "zona": "Delegacion 17 de Agosto",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": 1,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-07-29",
+    "zona": "Delegacion Laguna Seca",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": "1,5",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-07-29",
+    "zona": "Delegacion Dr. monta�a",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": "1,2",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-07-29",
+    "zona": "Delegacion Dr. Nicolini",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": 2,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-07-29",
+    "zona": "Delegacion San Martin",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": "1,5",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-08-02",
+    "zona": "Molina Punta",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 36485,
+    "kg_residuos_secos_reciclables": "36,485",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-08-03",
+    "zona": "Juan de Vera",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 4720,
+    "kg_residuos_secos_reciclables": "4,72",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-08-04",
+    "zona": "Molina Punta",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 29280,
+    "kg_residuos_secos_reciclables": "29,28",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-08-05",
+    "zona": "Juan de Vera",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 57185,
+    "kg_residuos_secos_reciclables": "57,185",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-08-09",
+    "zona": "Molina Punta",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 33760,
+    "kg_residuos_secos_reciclables": "33,76",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-08-09",
+    "zona": "Delegacion San Ger�nimo",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": 6,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-08-09",
+    "zona": "UNNE - FaCENA",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": "2,87",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-08-12",
+    "zona": "Juan de Vera",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 33705,
+    "kg_residuos_secos_reciclables": "33,7",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-08-12",
+    "zona": "Delegacion Laguna Seca",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": "1,5",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-08-12",
+    "zona": "Delegacion San Martin",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": 2,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-08-19",
+    "zona": "Juan de Vera",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 20760,
+    "kg_residuos_secos_reciclables": "20,76",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-08-19",
+    "zona": "Delegacion Dr. Nicolini",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": 2,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-08-29",
+    "zona": "Delegacion Dr. monta�a",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": "29,085",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-09-02",
+    "zona": "Juan de Vera",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 44080,
+    "kg_residuos_secos_reciclables": "44,08",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-09-02",
+    "zona": "Delegacion 17 de Agosto",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": 1,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-09-02",
+    "zona": "Delegacion Laguna Seca",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": "1,5",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-09-02",
+    "zona": "Delegacion Dr. monta�a",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": 2,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-09-02",
+    "zona": "Delegacion San Martin",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": "1,5",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-09-02",
+    "zona": "Delegacion Dr. Nicolini",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": "4,5",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-09-06",
+    "zona": "Molina Punta",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 46200,
+    "kg_residuos_secos_reciclables": "46,2",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-09-06",
+    "zona": "Delegacion 17 de Agosto",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": 2,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-09-06",
+    "zona": "Delegacion San Ger�nimo",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": "1,5",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-09-09",
+    "zona": "Juan de Vera",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 19420,
+    "kg_residuos_secos_reciclables": "19,42",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-09-09",
+    "zona": "Molina Punta",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 4960,
+    "kg_residuos_secos_reciclables": "4,96",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-09-12",
+    "zona": "Juan de Vera",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 33205,
+    "kg_residuos_secos_reciclables": "33,205",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-09-12",
+    "zona": "Delegacion Laguna Seca",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": "1,5",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-09-12",
+    "zona": "Delegacion San Martin",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": 2,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-09-13",
+    "zona": "Molina Punta",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 33950,
+    "kg_residuos_secos_reciclables": "33,95",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-09-13",
+    "zona": "UNNE - FaCENA",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": "2,8",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-09-16",
+    "zona": "Juan de Vera",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 44200,
+    "kg_residuos_secos_reciclables": "44,2",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-09-19",
+    "zona": "Juan de Vera",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 29525,
+    "kg_residuos_secos_reciclables": "29,525",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-09-19",
+    "zona": "Delegacion 17 de Agosto",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": 1,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-09-20",
+    "zona": "Molina Punta",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 17950,
+    "kg_residuos_secos_reciclables": "17,95",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-09-23",
+    "zona": "Molina Punta",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 56370,
+    "kg_residuos_secos_reciclables": "56,37",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-09-23",
+    "zona": "Juan de Vera",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 17695,
+    "kg_residuos_secos_reciclables": "17,695",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-09-23",
+    "zona": "Delegacion San Ger�nimo",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": 2,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-09-23",
+    "zona": "UNNE - FaCENA",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": "2,78",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-09-23",
+    "zona": "Delegacion 17 de Agosto",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": 1,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-09-23",
+    "zona": "Delegacion Laguna Seca",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": "1,5",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-09-23",
+    "zona": "Delegacion Dr. monta�a",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": "0,9",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-09-23",
+    "zona": "Delegacion San Martin",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": 2,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-09-23",
+    "zona": "Delegacion Dr. Nicolini",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": 6,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-09-26",
+    "zona": "Juan de Vera",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 12570,
+    "kg_residuos_secos_reciclables": "12,57",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-09-26",
+    "zona": "Delegacion 17 de Agosto",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": 1,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-09-26",
+    "zona": "Delegacion Laguna Seca",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": "1,5",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-09-26",
+    "zona": "Delegacion Dr. monta�a",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": "2,5",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-09-26",
+    "zona": "Delegacion Dr. Nicolini",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": 5,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-09-27",
+    "zona": "Molina Punta",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 36810,
+    "kg_residuos_secos_reciclables": "36,81",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-09-27",
+    "zona": "Delegacion 17 de Agosto",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": "2,5",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-09-27",
+    "zona": "UNNE - FaCENA",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": "4,46",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-09-30",
+    "zona": "Molina Punta",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 51420,
+    "kg_residuos_secos_reciclables": "51,42",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-09-30",
+    "zona": "Delegacion Laguna Seca",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": "2,5",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-09-30",
+    "zona": "Delegacion 17 de Agosto",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": 1,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-09-30",
+    "zona": "Delegacion San Ger�nimo",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": 1,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-09-30",
+    "zona": "Delegacion 17 de Agosto",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 2500,
+    "kg_residuos_secos_reciclables": "2,5",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-09-30",
+    "zona": "Delegacion Laguna Seca",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 2000,
+    "kg_residuos_secos_reciclables": 2,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-09-30",
+    "zona": "Delegacion Dr. monta�a",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 1000,
+    "kg_residuos_secos_reciclables": 1,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-09-30",
+    "zona": "Delegacion San Martin",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 15000,
+    "kg_residuos_secos_reciclables": 15,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-09-30",
+    "zona": "Juan de Vera",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 22625,
+    "kg_residuos_secos_reciclables": "22,625",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-09-30",
+    "zona": "Delegacion Dr. Nicolini",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 4000,
+    "kg_residuos_secos_reciclables": 4,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-10-04",
+    "zona": "Molina Punta",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 22410,
+    "kg_residuos_secos_reciclables": "22,41",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-10-04",
+    "zona": "Delegacion 17 de Agosto",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": 6,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-10-04",
+    "zona": "UNNE - FaCENA",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": "1,13",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-10-07",
+    "zona": "Juan de Vera",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 19657,
+    "kg_residuos_secos_reciclables": "19,657",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-10-07",
+    "zona": "Delegacion 17 de Agosto",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": 1,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-10-07",
+    "zona": "Delegacion Laguna Seca",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": 1,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-10-07",
+    "zona": "Delegacion Dr. monta�a",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": 1,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-10-07",
+    "zona": "Delegacion San Martin",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": 1,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-10-07",
+    "zona": "Delegacion Dr. Nicolini",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": "",
+    "kg_residuos_secos_reciclables": 4,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-10-11",
+    "zona": "Molina Punta",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 24885,
+    "kg_residuos_secos_reciclables": "24,885",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-10-14",
+    "zona": "Delegacion 17 de Agosto",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 2500,
+    "kg_residuos_secos_reciclables": "2,5",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-10-14",
+    "zona": "Delegacion Dr. Nicolini",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 3500,
+    "kg_residuos_secos_reciclables": "3,5",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-10-18",
+    "zona": "UNNE - FaCENA",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 7415,
+    "kg_residuos_secos_reciclables": "7,415",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-10-18",
+    "zona": "Molina Punta",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 430,
+    "kg_residuos_secos_reciclables": "0,43",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-10-21",
+    "zona": "Delegacion 17 de Agosto",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 5000,
+    "kg_residuos_secos_reciclables": 5,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-10-21",
+    "zona": "Delegacion Dr. monta�a",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 2000,
+    "kg_residuos_secos_reciclables": 2,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-10-21",
+    "zona": "Delegacion San Martin",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 6000,
+    "kg_residuos_secos_reciclables": 6,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-10-21",
+    "zona": "Juan de Vera",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 28585,
+    "kg_residuos_secos_reciclables": "28,585",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-10-25",
+    "zona": "Molina Punta",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 44745,
+    "kg_residuos_secos_reciclables": "44,745",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-10-28",
+    "zona": "Delegacion 17 de Agosto",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 15000,
+    "kg_residuos_secos_reciclables": 15,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-10-28",
+    "zona": "Delegacion Laguna Seca",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 1000,
+    "kg_residuos_secos_reciclables": 1,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-10-28",
+    "zona": "Delegacion Dr. monta�a",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 1200,
+    "kg_residuos_secos_reciclables": "1,2",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-10-28",
+    "zona": "Juan de Vera",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 47665,
+    "kg_residuos_secos_reciclables": "47,665",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-11-01",
+    "zona": "UNNE - FaCENA",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 4495,
+    "kg_residuos_secos_reciclables": "4,495",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-11-01",
+    "zona": "Molina Punta",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 8705,
+    "kg_residuos_secos_reciclables": "8,705",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-11-04",
+    "zona": "Delegacion 17 de Agosto",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 1500,
+    "kg_residuos_secos_reciclables": "1,5",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-11-04",
+    "zona": "Delegacion Laguna Seca",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 1000,
+    "kg_residuos_secos_reciclables": 1,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-11-04",
+    "zona": "Delegacion Dr. monta�a",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 1000,
+    "kg_residuos_secos_reciclables": 1,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-11-04",
+    "zona": "Delegacion Dr. Nicolini",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 2000,
+    "kg_residuos_secos_reciclables": 2,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-11-11",
+    "zona": "Delegacion 17 de Agosto",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 1500,
+    "kg_residuos_secos_reciclables": "1,5",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-11-11",
+    "zona": "Delegacion Laguna Seca",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 2000,
+    "kg_residuos_secos_reciclables": 2,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-11-11",
+    "zona": "Juan de Vera",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 63080,
+    "kg_residuos_secos_reciclables": "63,08",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-11-11",
+    "zona": "Delegacion Dr. Nicolini",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 3500,
+    "kg_residuos_secos_reciclables": "3,5",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-11-15",
+    "zona": "UNNE - FaCENA",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 5905,
+    "kg_residuos_secos_reciclables": "5,905",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-11-15",
+    "zona": "Molina Punta",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 83599,
+    "kg_residuos_secos_reciclables": "83,599",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-11-18",
+    "zona": "Delegacion 17 de Agosto",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 1500,
+    "kg_residuos_secos_reciclables": "1,5",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-11-18",
+    "zona": "Delegacion Dr. Nicolini",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 25000,
+    "kg_residuos_secos_reciclables": 25,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-11-22",
+    "zona": "Molina Punta",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 5650,
+    "kg_residuos_secos_reciclables": "5,65",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-11-25",
+    "zona": "Delegacion 17 de Agosto",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 1500,
+    "kg_residuos_secos_reciclables": "1,5",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-11-25",
+    "zona": "Delegacion Laguna Seca",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 1700,
+    "kg_residuos_secos_reciclables": "1,7",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-11-25",
+    "zona": "Delegacion San Martin",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 2000,
+    "kg_residuos_secos_reciclables": 2,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-11-25",
+    "zona": "Delegacion Dr. monta�a",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 1000,
+    "kg_residuos_secos_reciclables": 1,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-11-25",
+    "zona": "Juan de Vera",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 68639,
+    "kg_residuos_secos_reciclables": "68,639",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-11-25",
+    "zona": "Delegacion Dr. Nicolini",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 5500,
+    "kg_residuos_secos_reciclables": "5,5",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-11-29",
+    "zona": "UNNE - FaCENA",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 17050,
+    "kg_residuos_secos_reciclables": "17,05",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-11-29",
+    "zona": "Molina Punta",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 13435,
+    "kg_residuos_secos_reciclables": "13,435",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-12-02",
+    "zona": "Delegacion 17 de Agosto",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 10000,
+    "kg_residuos_secos_reciclables": 10,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-12-02",
+    "zona": "Delegacion Laguna Seca",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 9000,
+    "kg_residuos_secos_reciclables": 9,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-12-02",
+    "zona": "Juan de Vera",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 43173,
+    "kg_residuos_secos_reciclables": "43,173",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-12-02",
+    "zona": "Delegacion Dr. Nicolini",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 6000,
+    "kg_residuos_secos_reciclables": 6,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-12-06",
+    "zona": "Molina Punta",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 33935,
+    "kg_residuos_secos_reciclables": "33,935",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-12-09",
+    "zona": "Delegacion 17 de Agosto",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 12000,
+    "kg_residuos_secos_reciclables": 12,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-12-09",
+    "zona": "Delegacion Laguna Seca",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 1000,
+    "kg_residuos_secos_reciclables": 1,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-12-09",
+    "zona": "Juan de Vera",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 55765,
+    "kg_residuos_secos_reciclables": "55,765",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-12-09",
+    "zona": "Delegacion Dr. Nicolini",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 9000,
+    "kg_residuos_secos_reciclables": 9,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-12-13",
+    "zona": "Delegacion San Ger�nimo",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 10000,
+    "kg_residuos_secos_reciclables": 10,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-12-13",
+    "zona": "Molina Punta",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 27164,
+    "kg_residuos_secos_reciclables": "27,164",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-12-16",
+    "zona": "Delegacion 17 de Agosto",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 12000,
+    "kg_residuos_secos_reciclables": 12,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-12-16",
+    "zona": "Delegacion Laguna Seca",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 1000,
+    "kg_residuos_secos_reciclables": 1,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-12-16",
+    "zona": "Juan de Vera",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 29400,
+    "kg_residuos_secos_reciclables": "29,4",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-12-16",
+    "zona": "Delegacion Dr. Nicolini",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 1500,
+    "kg_residuos_secos_reciclables": "1,5",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-12-20",
+    "zona": "Molina Punta",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 46800,
+    "kg_residuos_secos_reciclables": "46,8",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-12-23",
+    "zona": "Delegacion 17 de Agosto",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 10000,
+    "kg_residuos_secos_reciclables": 10,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-12-23",
+    "zona": "Delegacion Laguna Seca",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 9000,
+    "kg_residuos_secos_reciclables": 9,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-12-23",
+    "zona": "Delegacion San Martin",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 10000,
+    "kg_residuos_secos_reciclables": 10,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-12-23",
+    "zona": "Juan de Vera",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 73000,
+    "kg_residuos_secos_reciclables": 73,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-12-23",
+    "zona": "Delegacion Dr. Nicolini",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 1500,
+    "kg_residuos_secos_reciclables": "1,5",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-12-27",
+    "zona": "Delegacion 17 de Agosto",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 8000,
+    "kg_residuos_secos_reciclables": 8,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-12-27",
+    "zona": "UNNE - FaCENA",
+    "recoleccion_tipo": "rulero",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 2100,
+    "kg_residuos_secos_reciclables": "2,1",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-12-27",
+    "zona": "Molina Punta",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 9200,
+    "kg_residuos_secos_reciclables": "9,2",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-12-27",
+    "zona": "Molina Punta",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 1150,
+    "kg_residuos_secos_reciclables": "1,15",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2019-12-30",
+    "zona": "Juan de Vera",
+    "recoleccion_tipo": "a puerta",
+    "cantidad_domicilios": "",
+    "gr_residuos_secos_reciclables": 18500,
+    "kg_residuos_secos_reciclables": "18,5",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  }
+]

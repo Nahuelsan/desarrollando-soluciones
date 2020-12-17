@@ -1,0 +1,58 @@
+[
+  {
+    "gid": 1,
+    "nombre": "HOSPITAL PSIQUIATRICO",
+    "tipo": "Publico",
+    "direccion": "Calle Velez Sarfiel y Sto. C",
+    "lng": -58.8183432254351,
+    "lat": -27.4598970051248
+  },
+  {
+    "gid": 3,
+    "nombre": "HOSPITAL NEONATAL",
+    "tipo": "Publico",
+    "direccion": "Calle Las Heras Nº 1000",
+    "lng": -58.8389330616172,
+    "lat": -27.4808865354847
+  },
+  {
+    "gid": 2,
+    "nombre": "HOSPITAL VIDAL",
+    "tipo": "Publico",
+    "direccion": "Calle Necochea Nº 1000",
+    "lng": -58.8389618788792,
+    "lat": -27.4794394414541
+  },
+  {
+    "gid": 4,
+    "nombre": "HOSPITAL GERIATRICO",
+    "tipo": "Publico",
+    "direccion": "Belgrano 1353",
+    "lng": -58.8344320421124,
+    "lat": -27.4720855155304
+  },
+  {
+    "gid": 5,
+    "nombre": "HOSPITAL ESCUELA",
+    "tipo": "Publico",
+    "direccion": "Calle Belgrano Nº 1353",
+    "lng": -58.83576861265,
+    "lat": -27.4749320417225
+  },
+  {
+    "gid": 6,
+    "nombre": "HOSPITAL PEDIATRICO JUAN PABLO II",
+    "tipo": "Publico",
+    "direccion": "Av. Artigas Nº 1300",
+    "lng": -58.8186452466328,
+    "lat": -27.4757675040883
+  },
+  {
+    "gid": 7,
+    "nombre": "HOSPITAL LLANO",
+    "tipo": "Publico",
+    "direccion": "Av. Ayacucho Nº 3000",
+    "lng": -58.810669516391,
+    "lat": -27.4721480369447
+  }
+]

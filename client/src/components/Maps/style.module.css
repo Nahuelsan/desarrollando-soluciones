@@ -1,0 +1,13 @@
+.left-container{
+    width: 100vw;
+    height: 100vh;
+}
+.button{
+    border: none;
+    border-radius: 9px;
+}
+.icon{
+    border-radius: 9px;
+    width: 40px;
+    height: 40px;
+}

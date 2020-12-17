@@ -1,0 +1,18 @@
+[1202/185443.845:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1203/020154.869:ERROR:process_info.cc(329)] VirtualQueryEx: Acceso denegado. (0x5)
+[1203/020154.869:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acceso denegado} Un proceso ha solicitado acceso a un objeto, pero no se le han concedido esos derechos de acceso. (0xc0000022)
+[1203/020155.119:ERROR:exception_snapshot_win.cc(99)] thread ID 128 not found in process
+[1203/020155.119:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Se intentó obtener acceso a un proceso que está cerrándose. (0xc000010a)
+[1203/020154.397:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acceso denegado} Un proceso ha solicitado acceso a un objeto, pero no se le han concedido esos derechos de acceso. (0xc0000022)
+[1203/020155.119:ERROR:exception_snapshot_win.cc(99)] thread ID 2044 not found in process
+[1203/020155.119:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[1203/020155.119:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Se intentó obtener acceso a un proceso que está cerrándose. (0xc000010a)
+[1203/020154.557:ERROR:scoped_process_suspend.cc(31)] NtSuspendProcess: Se intentó obtener acceso a un proceso que está cerrándose. (0xc000010a)
+[1203/020154.901:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acceso denegado} Un proceso ha solicitado acceso a un objeto, pero no se le han concedido esos derechos de acceso. (0xc0000022)
+[1203/020155.119:ERROR:exception_snapshot_win.cc(99)] thread ID 8152 not found in process
+[1203/020155.338:ERROR:process_info.cc(98)] ReadProcessMemory UNICODE_STRING: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[1203/020155.338:ERROR:process_info.cc(118)] ReadProcessMemory bool __cdecl crashpad::(anonymous namespace)::ReadStruct(HANDLE, crashpad::WinVMAddress, T *) [T = crashpad::process_types::LDR_DATA_TABLE_ENTRY<crashpad::process_types::internal::Traits64>]: Solo se completó una parte de una solicitud ReadProcessMemory o WriteProcessMemory. (0x12B)
+[1203/020155.338:ERROR:process_info.cc(329)] VirtualQueryEx: Acceso denegado. (0x5)
+[1203/020155.338:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[1214/074433.851:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1215/184431.207:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)

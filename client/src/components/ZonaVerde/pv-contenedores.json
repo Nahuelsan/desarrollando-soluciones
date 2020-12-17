@@ -1,0 +1,1181 @@
+[
+  {
+    "fecha": "2020/01/03",
+    "punto_verde": "Plaza Torrent",
+    "unidad": "kg",
+    "cantidad": 5,
+    "kg_residuos_secos_reciclables": 5,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/01/03",
+    "punto_verde": "Parque Camba Cua",
+    "unidad": "kg",
+    "cantidad": 3,
+    "kg_residuos_secos_reciclables": 3,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/01/03",
+    "punto_verde": "Plaza Libertad",
+    "unidad": "kg",
+    "cantidad": "2,5",
+    "kg_residuos_secos_reciclables": "2,5",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/01/06",
+    "punto_verde": "Plaza Libertad",
+    "unidad": "kg",
+    "cantidad": 30,
+    "kg_residuos_secos_reciclables": 30,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/01/06",
+    "punto_verde": "Plaza Torrent",
+    "unidad": "kg",
+    "cantidad": 30,
+    "kg_residuos_secos_reciclables": 30,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/01/06",
+    "punto_verde": "Parque Camba Cua",
+    "unidad": "kg",
+    "cantidad": 20,
+    "kg_residuos_secos_reciclables": 20,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/01/06",
+    "punto_verde": "Santa Catalina",
+    "unidad": "kg",
+    "cantidad": 8,
+    "kg_residuos_secos_reciclables": 8,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/01/10",
+    "punto_verde": "Plaza Torrent",
+    "unidad": "kg",
+    "cantidad": 30,
+    "kg_residuos_secos_reciclables": 30,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/01/10",
+    "punto_verde": "Parque Camba Cua",
+    "unidad": "kg",
+    "cantidad": 25,
+    "kg_residuos_secos_reciclables": 25,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/01/10",
+    "punto_verde": "Plaza Libertad",
+    "unidad": "kg",
+    "cantidad": 50,
+    "kg_residuos_secos_reciclables": 50,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/01/13",
+    "punto_verde": "Plaza Libertad",
+    "unidad": "kg",
+    "cantidad": 25,
+    "kg_residuos_secos_reciclables": 25,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/01/13",
+    "punto_verde": "Plaza Torrent",
+    "unidad": "kg",
+    "cantidad": 30,
+    "kg_residuos_secos_reciclables": 30,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/01/13",
+    "punto_verde": "Parque Camba Cua",
+    "unidad": "kg",
+    "cantidad": 15,
+    "kg_residuos_secos_reciclables": 15,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/01/13",
+    "punto_verde": "Santa Catalina",
+    "unidad": "kg",
+    "cantidad": 10,
+    "kg_residuos_secos_reciclables": 10,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/01/17",
+    "punto_verde": "Plaza Torrent",
+    "unidad": "kg",
+    "cantidad": 20,
+    "kg_residuos_secos_reciclables": 20,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/01/17",
+    "punto_verde": "Parque Camba Cua",
+    "unidad": "kg",
+    "cantidad": 15,
+    "kg_residuos_secos_reciclables": 15,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/01/17",
+    "punto_verde": "Plaza Libertad",
+    "unidad": "kg",
+    "cantidad": 75,
+    "kg_residuos_secos_reciclables": 75,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/01/18",
+    "punto_verde": "Evento",
+    "unidad": "kg",
+    "cantidad": "149,3",
+    "kg_residuos_secos_reciclables": "149,3",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": "Chamam� 2020"
+  },
+  {
+    "fecha": "2020/01/19",
+    "punto_verde": "Evento",
+    "unidad": "kg",
+    "cantidad": "785,8",
+    "kg_residuos_secos_reciclables": "785,8",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": "Chamam� 2020"
+  },
+  {
+    "fecha": "2020/01/20",
+    "punto_verde": "Evento",
+    "unidad": "kg",
+    "cantidad": "457,41",
+    "kg_residuos_secos_reciclables": "457,41",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": "Chamam� 2020"
+  },
+  {
+    "fecha": "2020/01/20",
+    "punto_verde": "Plaza Libertad",
+    "unidad": "kg",
+    "cantidad": 39,
+    "kg_residuos_secos_reciclables": 39,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/01/20",
+    "punto_verde": "Plaza Torrent",
+    "unidad": "kg",
+    "cantidad": 30,
+    "kg_residuos_secos_reciclables": 30,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/01/20",
+    "punto_verde": "Parque Camba Cua",
+    "unidad": "kg",
+    "cantidad": 21,
+    "kg_residuos_secos_reciclables": 21,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/01/20",
+    "punto_verde": "Santa Catalina",
+    "unidad": "kg",
+    "cantidad": "13,5",
+    "kg_residuos_secos_reciclables": "13,5",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/01/21",
+    "punto_verde": "Evento",
+    "unidad": "kg",
+    "cantidad": "291,9",
+    "kg_residuos_secos_reciclables": "291,9",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": "Chamam� 2020"
+  },
+  {
+    "fecha": "2020/01/22",
+    "punto_verde": "Parque Camba Cua",
+    "unidad": "kg",
+    "cantidad": 35,
+    "kg_residuos_secos_reciclables": 35,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/01/22",
+    "punto_verde": "Plaza Torrent",
+    "unidad": "kg",
+    "cantidad": 30,
+    "kg_residuos_secos_reciclables": 30,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/01/22",
+    "punto_verde": "Plaza Libertad",
+    "unidad": "kg",
+    "cantidad": 45,
+    "kg_residuos_secos_reciclables": 45,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/01/23",
+    "punto_verde": "Evento",
+    "unidad": "kg",
+    "cantidad": "159,5",
+    "kg_residuos_secos_reciclables": "159,5",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": "Chamam� 2020"
+  },
+  {
+    "fecha": "2020/01/24",
+    "punto_verde": "Parque Camba Cua",
+    "unidad": "kg",
+    "cantidad": 15,
+    "kg_residuos_secos_reciclables": 15,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/01/24",
+    "punto_verde": "Plaza Torrent",
+    "unidad": "kg",
+    "cantidad": 25,
+    "kg_residuos_secos_reciclables": 25,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/01/24",
+    "punto_verde": "Plaza Libertad",
+    "unidad": "kg",
+    "cantidad": 30,
+    "kg_residuos_secos_reciclables": 30,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/01/24",
+    "punto_verde": "Evento",
+    "unidad": "kg",
+    "cantidad": "490,7",
+    "kg_residuos_secos_reciclables": "490,7",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": "Chamam� 2020"
+  },
+  {
+    "fecha": "2020/01/25",
+    "punto_verde": "Evento",
+    "unidad": "kg",
+    "cantidad": "552,2",
+    "kg_residuos_secos_reciclables": "552,2",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": "Chamam� 2020"
+  },
+  {
+    "fecha": "2020/01/26",
+    "punto_verde": "Evento",
+    "unidad": "kg",
+    "cantidad": "882,5",
+    "kg_residuos_secos_reciclables": "882,5",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": "Chamam� 2020"
+  },
+  {
+    "fecha": "2020/01/31",
+    "punto_verde": "Parque Camba Cua",
+    "unidad": "kg",
+    "cantidad": 25,
+    "kg_residuos_secos_reciclables": 25,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/01/31",
+    "punto_verde": "Plaza Torrent",
+    "unidad": "kg",
+    "cantidad": 2,
+    "kg_residuos_secos_reciclables": 2,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/01/31",
+    "punto_verde": "Plaza Libertad",
+    "unidad": "kg",
+    "cantidad": 30,
+    "kg_residuos_secos_reciclables": 30,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/01/31",
+    "punto_verde": "Santa Catalina",
+    "unidad": "kg",
+    "cantidad": 15,
+    "kg_residuos_secos_reciclables": 15,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/02/01",
+    "punto_verde": "Plaza Libertad",
+    "unidad": "kg",
+    "cantidad": 30,
+    "kg_residuos_secos_reciclables": 30,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/02/01",
+    "punto_verde": "Plaza Torrent",
+    "unidad": "kg",
+    "cantidad": 25,
+    "kg_residuos_secos_reciclables": 25,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/02/01",
+    "punto_verde": "Parque Camba Cua",
+    "unidad": "kg",
+    "cantidad": 28,
+    "kg_residuos_secos_reciclables": 28,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/02/03",
+    "punto_verde": "Plaza Libertad",
+    "unidad": "kg",
+    "cantidad": 35,
+    "kg_residuos_secos_reciclables": 35,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/02/03",
+    "punto_verde": "Plaza Torrent",
+    "unidad": "kg",
+    "cantidad": 35,
+    "kg_residuos_secos_reciclables": 35,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/02/03",
+    "punto_verde": "Parque Camba Cua",
+    "unidad": "kg",
+    "cantidad": 25,
+    "kg_residuos_secos_reciclables": 25,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/02/04",
+    "punto_verde": "Santa Catalina",
+    "unidad": "kg",
+    "cantidad": 11,
+    "kg_residuos_secos_reciclables": 11,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/02/07",
+    "punto_verde": "Parque Camba Cua",
+    "unidad": "kg",
+    "cantidad": 30,
+    "kg_residuos_secos_reciclables": 30,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/02/07",
+    "punto_verde": "Plaza Torrent",
+    "unidad": "kg",
+    "cantidad": 35,
+    "kg_residuos_secos_reciclables": 35,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/02/07",
+    "punto_verde": "Plaza Libertad",
+    "unidad": "kg",
+    "cantidad": 40,
+    "kg_residuos_secos_reciclables": 40,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/02/10",
+    "punto_verde": "Plaza Torrent",
+    "unidad": "kg",
+    "cantidad": 20,
+    "kg_residuos_secos_reciclables": 20,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/02/10",
+    "punto_verde": "Parque Camba Cua",
+    "unidad": "kg",
+    "cantidad": 15,
+    "kg_residuos_secos_reciclables": 15,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/02/10",
+    "punto_verde": "Plaza Libertad",
+    "unidad": "kg",
+    "cantidad": 25,
+    "kg_residuos_secos_reciclables": 25,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/02/17",
+    "punto_verde": "Santa Catalina",
+    "unidad": "kg",
+    "cantidad": 7,
+    "kg_residuos_secos_reciclables": 7,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/02/17",
+    "punto_verde": "Plaza Torrent",
+    "unidad": "kg",
+    "cantidad": 14,
+    "kg_residuos_secos_reciclables": 14,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/02/17",
+    "punto_verde": "Parque Camba Cua",
+    "unidad": "kg",
+    "cantidad": 15,
+    "kg_residuos_secos_reciclables": 15,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/02/17",
+    "punto_verde": "Plaza Libertad",
+    "unidad": "kg",
+    "cantidad": 20,
+    "kg_residuos_secos_reciclables": 20,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/02/26",
+    "punto_verde": "Parque Camba Cua",
+    "unidad": "kg",
+    "cantidad": 25,
+    "kg_residuos_secos_reciclables": 25,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/02/26",
+    "punto_verde": "Plaza Torrent",
+    "unidad": "kg",
+    "cantidad": 30,
+    "kg_residuos_secos_reciclables": 30,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/02/26",
+    "punto_verde": "Plaza Torrent",
+    "unidad": "kg",
+    "cantidad": 35,
+    "kg_residuos_secos_reciclables": 35,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/02/28",
+    "punto_verde": "Parque Camba Cua",
+    "unidad": "kg",
+    "cantidad": 25,
+    "kg_residuos_secos_reciclables": 25,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/02/28",
+    "punto_verde": "Plaza Torrent",
+    "unidad": "kg",
+    "cantidad": 30,
+    "kg_residuos_secos_reciclables": 30,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/02/28",
+    "punto_verde": "Plaza Libertad",
+    "unidad": "kg",
+    "cantidad": 35,
+    "kg_residuos_secos_reciclables": 35,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/04/03",
+    "punto_verde": "Plaza Torrent",
+    "unidad": "kg",
+    "cantidad": 20,
+    "kg_residuos_secos_reciclables": 20,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/04/03",
+    "punto_verde": "Parque Camba Cua",
+    "unidad": "kg",
+    "cantidad": 10,
+    "kg_residuos_secos_reciclables": 10,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/04/03",
+    "punto_verde": "Plaza Libertad",
+    "unidad": "kg",
+    "cantidad": 25,
+    "kg_residuos_secos_reciclables": 25,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/05/19",
+    "punto_verde": "",
+    "unidad": "kg",
+    "cantidad": 10,
+    "kg_residuos_secos_reciclables": 10,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/05/19",
+    "punto_verde": "Plaza Libertad",
+    "unidad": "kg",
+    "cantidad": 25,
+    "kg_residuos_secos_reciclables": 25,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/05/19",
+    "punto_verde": "Plaza Torrent",
+    "unidad": "kg",
+    "cantidad": 3,
+    "kg_residuos_secos_reciclables": 3,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/05/19",
+    "punto_verde": "Parque Camba Cua",
+    "unidad": "kg",
+    "cantidad": 4,
+    "kg_residuos_secos_reciclables": 4,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/05/26",
+    "punto_verde": "Plaza Libertad",
+    "unidad": "kg",
+    "cantidad": 35,
+    "kg_residuos_secos_reciclables": 35,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/05/26",
+    "punto_verde": "Plaza Torrent",
+    "unidad": "kg",
+    "cantidad": 20,
+    "kg_residuos_secos_reciclables": 20,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/05/26",
+    "punto_verde": "Parque Camba Cua",
+    "unidad": "kg",
+    "cantidad": 15,
+    "kg_residuos_secos_reciclables": 15,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/06/08",
+    "punto_verde": "Parque Camba Cua",
+    "unidad": "kg",
+    "cantidad": 50,
+    "kg_residuos_secos_reciclables": 50,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/06/08",
+    "punto_verde": "Plaza Torrent",
+    "unidad": "kg",
+    "cantidad": 60,
+    "kg_residuos_secos_reciclables": 60,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/06/08",
+    "punto_verde": "Plaza Libertad",
+    "unidad": "kg",
+    "cantidad": 10,
+    "kg_residuos_secos_reciclables": 10,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/06/23",
+    "punto_verde": "",
+    "unidad": "kg",
+    "cantidad": 15,
+    "kg_residuos_secos_reciclables": 15,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/06/23",
+    "punto_verde": "Plaza Libertad",
+    "unidad": "kg",
+    "cantidad": "3,5",
+    "kg_residuos_secos_reciclables": "3,5",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/06/23",
+    "punto_verde": "Plaza Torrent",
+    "unidad": "kg",
+    "cantidad": 4,
+    "kg_residuos_secos_reciclables": 4,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/06/23",
+    "punto_verde": "Parque Camba Cua",
+    "unidad": "kg",
+    "cantidad": 2,
+    "kg_residuos_secos_reciclables": 2,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/07/07",
+    "punto_verde": "Plaza Libertad",
+    "unidad": "kg",
+    "cantidad": 2,
+    "kg_residuos_secos_reciclables": 2,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/07/07",
+    "punto_verde": "Plaza Torrent",
+    "unidad": "kg",
+    "cantidad": "3,5",
+    "kg_residuos_secos_reciclables": "3,5",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/07/07",
+    "punto_verde": "Parque Camba Cua",
+    "unidad": "kg",
+    "cantidad": 25,
+    "kg_residuos_secos_reciclables": 25,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/07/11",
+    "punto_verde": "Plaza Libertad",
+    "unidad": "kg",
+    "cantidad": 20,
+    "kg_residuos_secos_reciclables": 20,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/07/11",
+    "punto_verde": "Plaza Torrent",
+    "unidad": "kg",
+    "cantidad": 25,
+    "kg_residuos_secos_reciclables": 25,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/07/11",
+    "punto_verde": "Parque Camba Cua",
+    "unidad": "kg",
+    "cantidad": 15,
+    "kg_residuos_secos_reciclables": 15,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/07/14",
+    "punto_verde": "Plaza Libertad",
+    "unidad": "kg",
+    "cantidad": 15,
+    "kg_residuos_secos_reciclables": 15,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/07/14",
+    "punto_verde": "Plaza Torrent",
+    "unidad": "kg",
+    "cantidad": 20,
+    "kg_residuos_secos_reciclables": 20,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/07/14",
+    "punto_verde": "Parque Camba Cua",
+    "unidad": "kg",
+    "cantidad": 25,
+    "kg_residuos_secos_reciclables": 25,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/07/17",
+    "punto_verde": "Plaza Libertad",
+    "unidad": "kg",
+    "cantidad": 20,
+    "kg_residuos_secos_reciclables": 20,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/07/17",
+    "punto_verde": "Plaza Torrent",
+    "unidad": "kg",
+    "cantidad": 35,
+    "kg_residuos_secos_reciclables": 35,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/07/17",
+    "punto_verde": "Parque Camba Cua",
+    "unidad": "kg",
+    "cantidad": 25,
+    "kg_residuos_secos_reciclables": 25,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/07/21",
+    "punto_verde": "Plaza Libertad",
+    "unidad": "kg",
+    "cantidad": 20,
+    "kg_residuos_secos_reciclables": 20,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/07/21",
+    "punto_verde": "Plaza Torrent",
+    "unidad": "kg",
+    "cantidad": 30,
+    "kg_residuos_secos_reciclables": 30,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/07/21",
+    "punto_verde": "Parque Camba Cua",
+    "unidad": "kg",
+    "cantidad": 25,
+    "kg_residuos_secos_reciclables": 25,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/07/30",
+    "punto_verde": "Plaza Libertad",
+    "unidad": "kg",
+    "cantidad": 15,
+    "kg_residuos_secos_reciclables": 15,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/07/30",
+    "punto_verde": "Plaza Torrent",
+    "unidad": "kg",
+    "cantidad": 20,
+    "kg_residuos_secos_reciclables": 20,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/07/30",
+    "punto_verde": "Parque Camba Cua",
+    "unidad": "kg",
+    "cantidad": 10,
+    "kg_residuos_secos_reciclables": 10,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/08/08",
+    "punto_verde": "Plaza Libertad",
+    "unidad": "kg",
+    "cantidad": 15,
+    "kg_residuos_secos_reciclables": 15,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/08/08",
+    "punto_verde": "Plaza Torrent",
+    "unidad": "kg",
+    "cantidad": 20,
+    "kg_residuos_secos_reciclables": 20,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/08/08",
+    "punto_verde": "Parque Camba Cua",
+    "unidad": "kg",
+    "cantidad": 25,
+    "kg_residuos_secos_reciclables": 25,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/08/09",
+    "punto_verde": "Plaza Libertad",
+    "unidad": "kg",
+    "cantidad": 15,
+    "kg_residuos_secos_reciclables": 15,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/08/09",
+    "punto_verde": "Plaza Torrent",
+    "unidad": "kg",
+    "cantidad": 20,
+    "kg_residuos_secos_reciclables": 20,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/08/09",
+    "punto_verde": "Parque Camba Cua",
+    "unidad": "kg",
+    "cantidad": 25,
+    "kg_residuos_secos_reciclables": 25,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/08/14",
+    "punto_verde": "Plaza Libertad",
+    "unidad": "kg",
+    "cantidad": 15,
+    "kg_residuos_secos_reciclables": 15,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/08/14",
+    "punto_verde": "Plaza Torrent",
+    "unidad": "kg",
+    "cantidad": 20,
+    "kg_residuos_secos_reciclables": 20,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/08/14",
+    "punto_verde": "",
+    "unidad": "kg",
+    "cantidad": 25,
+    "kg_residuos_secos_reciclables": 25,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/08/14",
+    "punto_verde": "Parque Camba Cua",
+    "unidad": "kg",
+    "cantidad": 30,
+    "kg_residuos_secos_reciclables": 30,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/08/18",
+    "punto_verde": "Plaza Libertad",
+    "unidad": "kg",
+    "cantidad": 20,
+    "kg_residuos_secos_reciclables": 20,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/08/18",
+    "punto_verde": "Plaza Torrent",
+    "unidad": "kg",
+    "cantidad": 30,
+    "kg_residuos_secos_reciclables": 30,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/08/18",
+    "punto_verde": "Parque Camba Cua",
+    "unidad": "kg",
+    "cantidad": 15,
+    "kg_residuos_secos_reciclables": 15,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/08/21",
+    "punto_verde": "Plaza Libertad",
+    "unidad": "kg",
+    "cantidad": 10,
+    "kg_residuos_secos_reciclables": 10,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/08/21",
+    "punto_verde": "Plaza Torrent",
+    "unidad": "kg",
+    "cantidad": 20,
+    "kg_residuos_secos_reciclables": 20,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/08/21",
+    "punto_verde": "Parque Camba Cua",
+    "unidad": "kg",
+    "cantidad": 25,
+    "kg_residuos_secos_reciclables": 25,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/08/23",
+    "punto_verde": "Plaza Libertad",
+    "unidad": "kg",
+    "cantidad": 25,
+    "kg_residuos_secos_reciclables": 25,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/08/23",
+    "punto_verde": "Plaza Torrent",
+    "unidad": "kg",
+    "cantidad": 20,
+    "kg_residuos_secos_reciclables": 20,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/08/23",
+    "punto_verde": "Parque Camba Cua",
+    "unidad": "kg",
+    "cantidad": 15,
+    "kg_residuos_secos_reciclables": 15,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/03/28",
+    "punto_verde": "Plaza Libertad",
+    "unidad": "kg",
+    "cantidad": 10,
+    "kg_residuos_secos_reciclables": 10,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/03/28",
+    "punto_verde": "Plaza Torrent",
+    "unidad": "kg",
+    "cantidad": 15,
+    "kg_residuos_secos_reciclables": 15,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/03/28",
+    "punto_verde": "Parque Camba Cua",
+    "unidad": "kg",
+    "cantidad": 10,
+    "kg_residuos_secos_reciclables": 10,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/08/30",
+    "punto_verde": "Plaza Libertad",
+    "unidad": "kg",
+    "cantidad": 1,
+    "kg_residuos_secos_reciclables": 1,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/08/30",
+    "punto_verde": "Plaza Torrent",
+    "unidad": "kg",
+    "cantidad": "1,5",
+    "kg_residuos_secos_reciclables": "1,5",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/08/30",
+    "punto_verde": "Parque Camba Cua",
+    "unidad": "kg",
+    "cantidad": 2,
+    "kg_residuos_secos_reciclables": 2,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/09/06",
+    "punto_verde": "Plaza Libertad",
+    "unidad": "kg",
+    "cantidad": 25,
+    "kg_residuos_secos_reciclables": 25,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/09/06",
+    "punto_verde": "Plaza Torrent",
+    "unidad": "kg",
+    "cantidad": 20,
+    "kg_residuos_secos_reciclables": 20,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/09/06",
+    "punto_verde": "Parque Camba Cua",
+    "unidad": "kg",
+    "cantidad": 15,
+    "kg_residuos_secos_reciclables": 15,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/09/11",
+    "punto_verde": "Plaza Libertad",
+    "unidad": "kg",
+    "cantidad": "2,5",
+    "kg_residuos_secos_reciclables": "2,5",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/09/11",
+    "punto_verde": "Plaza Torrent",
+    "unidad": "kg",
+    "cantidad": 2,
+    "kg_residuos_secos_reciclables": 2,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/09/11",
+    "punto_verde": "Parque Camba Cua",
+    "unidad": "kg",
+    "cantidad": "1,5",
+    "kg_residuos_secos_reciclables": "1,5",
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/09/13",
+    "punto_verde": "Plaza Libertad",
+    "unidad": "kg",
+    "cantidad": 20,
+    "kg_residuos_secos_reciclables": 20,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/09/13",
+    "punto_verde": "Plaza Torrent",
+    "unidad": "kg",
+    "cantidad": 25,
+    "kg_residuos_secos_reciclables": 25,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  },
+  {
+    "fecha": "2020/09/13",
+    "punto_verde": "Parque Camba Cua",
+    "unidad": "kg",
+    "cantidad": 15,
+    "kg_residuos_secos_reciclables": 15,
+    "destino": "Cooperativa Fortaleza",
+    "observaciones": ""
+  }
+]

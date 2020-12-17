@@ -1,0 +1,275 @@
+[
+  {
+    "gid": 1,
+    "nombre": "CLINICA MODELO",
+    "direccion": "M. MORENO N°1343",
+    "lng": -58.8345103770109,
+    "lat": -27.47337779352
+  },
+  {
+    "gid": 2,
+    "nombre": "CLINICA MATERNAL IBERA",
+    "direccion": "CORDOBA N°420",
+    "lng": -58.8338498621947,
+    "lat": -27.4625879966225
+  },
+  {
+    "gid": 3,
+    "nombre": "CLINICA DEL NIÑO",
+    "direccion": "BELGRANO N°1774",
+    "lng": -58.8289205068781,
+    "lat": -27.472922446082
+  },
+  {
+    "gid": 4,
+    "nombre": "CLINICA DEL NIÑO",
+    "direccion": "BELGRANO N°1760",
+    "lng": -58.8291636928851,
+    "lat": -27.4728953678321
+  },
+  {
+    "gid": 5,
+    "nombre": "CENTRO MEDICO",
+    "direccion": "AV. 3 DE ABRIL N°869",
+    "lng": -58.8400038694053,
+    "lat": -27.4750560175529
+  },
+  {
+    "gid": 6,
+    "nombre": "CLINICA MAYO S.A",
+    "direccion": "QUINTANA N°1267",
+    "lng": -58.8342554330109,
+    "lat": -27.4631703135712
+  },
+  {
+    "gid": 7,
+    "nombre": "INSTITUTO DE LA MUJER",
+    "direccion": "SAN MARTIN N°555",
+    "lng": -58.8437758552061,
+    "lat": -27.4690872092529
+  },
+  {
+    "gid": 8,
+    "nombre": "INSTITUTO DE DIAGNOSTICO Y TRATAMIENTO S.A.",
+    "direccion": "LA RIOJA N°663",
+    "lng": -58.8377359052067,
+    "lat": -27.4648651370993
+  },
+  {
+    "gid": 9,
+    "nombre": "CENTRO RENAL REVIDATTI",
+    "direccion": "25 DE MAYO N°1484",
+    "lng": -58.831674875373,
+    "lat": -27.4648009207865
+  },
+  {
+    "gid": 10,
+    "nombre": "CLINICA DE CIRUJIA AMBULATORIA CENTRO LASER REG.",
+    "direccion": "BELGRANO N°738",
+    "lng": -58.8415591482684,
+    "lat": -27.4717161962639
+  },
+  {
+    "gid": 11,
+    "nombre": "CLINICA SAGRADO CORAZON",
+    "direccion": "JUAN GUTEMBERG N°2184",
+    "lng": -58.8323355764987,
+    "lat": -27.4831060240428
+  },
+  {
+    "gid": 12,
+    "nombre": "CLINICA CORRIENTES",
+    "direccion": "JUNIN 1712",
+    "lng": -58.8289660996071,
+    "lat": -27.4683838120157
+  },
+  {
+    "gid": 13,
+    "nombre": "CLINICA DRES. ESTRAGO",
+    "direccion": "CARLOS PELLEGRINO N°1581",
+    "lng": -58.8304838360905,
+    "lat": -27.4658308491424
+  },
+  {
+    "gid": 14,
+    "nombre": "CLINICA DE CIRUJIA MINI INVASIVA S.A.",
+    "direccion": "BUENOS AIRES N°737",
+    "lng": -58.840302204579,
+    "lat": -27.4654256761286
+  },
+  {
+    "gid": 15,
+    "nombre": "UNIDAD RENAL CORRIENTES",
+    "direccion": "AV. 3 DE ABRIL N°636",
+    "lng": -58.8437017820106,
+    "lat": -27.4751150160429
+  },
+  {
+    "gid": 16,
+    "nombre": "SANATORIO SAN JUAN",
+    "direccion": "SAN JUAN N°971",
+    "lng": -58.8367658065966,
+    "lat": -27.4683694555517
+  },
+  {
+    "gid": 17,
+    "nombre": "SANATORIO DEL NORTE",
+    "direccion": "CARLOS PELLEGRINI N°1358",
+    "lng": -58.8334308403433,
+    "lat": -27.465704090676
+  },
+  {
+    "gid": 18,
+    "nombre": "CARDIOCENTRO",
+    "direccion": "RIVADAVIA N°1741",
+    "lng": -58.8293334090803,
+    "lat": -27.4749970665199
+  },
+  {
+    "gid": 19,
+    "nombre": "CLINICA DEL SOL",
+    "direccion": "MEDRANO 1650",
+    "lng": -58.7985459011995,
+    "lat": -27.4820511324146
+  },
+  {
+    "gid": 20,
+    "nombre": "INSTITUTO DE ORTOPEDIA Y TRAUMATOLOGIA",
+    "direccion": "BUENOS AIRES ESQ. H. IRIGOYEN",
+    "lng": -58.8406751608467,
+    "lat": -27.4683679639388
+  },
+  {
+    "gid": 21,
+    "nombre": "CENTRO NEUROLOGICO COMPUTARIZADO",
+    "direccion": "H. IRIGOYEN N°1010",
+    "lng": -58.8378949004582,
+    "lat": -27.4686111624336
+  },
+  {
+    "gid": 22,
+    "nombre": "CENTRO MEDICO LABORAL CERKIDE",
+    "direccion": "BRASIL N°984",
+    "lng": -58.8242286873792,
+    "lat": -27.4696469909345
+  },
+  {
+    "gid": 23,
+    "nombre": "INSTITUTO DE CARDIOLOGIA DE CORRIENTES",
+    "direccion": "BOLIVAR N°1345",
+    "lng": -58.8342546722046,
+    "lat": -27.4712649011596
+  },
+  {
+    "gid": 24,
+    "nombre": "CONSTRUIR SALUD",
+    "direccion": "ESPAÑA ESQ. M. MORENO",
+    "lng": -58.8299411201339,
+    "lat": -27.4740121513231
+  },
+  {
+    "gid": 25,
+    "nombre": "CENTRO DE COMPUTACION MEDICA DEL NORDESTE",
+    "direccion": "SAN MARTIN N°2471",
+    "lng": -58.8197121868468,
+    "lat": -27.4714433445626
+  },
+  {
+    "gid": 26,
+    "nombre": "CEREBRO INSTITUTO NEUROPSIQUIATRICO",
+    "direccion": "SAN MARTIN N°329",
+    "lng": -58.8464996278318,
+    "lat": -27.4690068517404
+  },
+  {
+    "gid": 27,
+    "nombre": "CENTRO RESPIRATORIO CORRIENTES",
+    "direccion": "JUNIN N°579",
+    "lng": -58.8431964640872,
+    "lat": -27.4670146787826
+  },
+  {
+    "gid": 28,
+    "nombre": "PSICOSALUD S.R.L.",
+    "direccion": "JUNIN N°565",
+    "lng": -58.843415121302,
+    "lat": -27.4669978927239
+  },
+  {
+    "gid": 29,
+    "nombre": "INTITUTO DE FLEBOLOGIA DEL NORDESTE",
+    "direccion": "CORDOBA N°1250",
+    "lng": -58.83494520069,
+    "lat": -27.4717314784123
+  },
+  {
+    "gid": 30,
+    "nombre": "INSTITUTO DE HEMOTERAPIA",
+    "direccion": "CORDOBA N°666",
+    "lng": -58.8341103103363,
+    "lat": -27.4651879682389
+  },
+  {
+    "gid": 31,
+    "nombre": "ICAL CORRIENTES",
+    "direccion": "SANTA FE N°762",
+    "lng": -58.8303995406213,
+    "lat": -27.4665635437078
+  },
+  {
+    "gid": 32,
+    "nombre": "MEDINIÑOS",
+    "direccion": "SAN MARTIN N°1474",
+    "lng": -58.8324449357557,
+    "lat": -27.4702978615125
+  },
+  {
+    "gid": 33,
+    "nombre": "ASISTIR SERVICIOS MEDICOS",
+    "direccion": "25 DE MAYO N°1772",
+    "lng": -58.8278759710863,
+    "lat": -27.4651903310999
+  },
+  {
+    "gid": 34,
+    "nombre": "INSTITUTO DE LA HIPERTENSION Y DEL CORAZON",
+    "direccion": "PARAGUA N°890",
+    "lng": -58.8266787295145,
+    "lat": -27.4683395481655
+  },
+  {
+    "gid": 35,
+    "nombre": "INSTITUTO PRIVADO DE ASMA, ALERGIA E INMUNOLOGIA",
+    "direccion": "ROCA N°1464",
+    "lng": -58.8235695277625,
+    "lat": -27.4752852007259
+  },
+  {
+    "gid": 36,
+    "nombre": "CENTRO PSICONEUROCOGNITIVO SAN JOAQUIN",
+    "direccion": "AV. PEDRO FERRE N°2876",
+    "lng": -58.8165487108318,
+    "lat": -27.4784996194434
+  },
+  {
+    "gid": 41,
+    "nombre": "INST. TEC. DENTAL SANTA ROSA",
+    "direccion": "CATAMARCA N°580",
+    "lng": -58.8327182635122,
+    "lat": -27.4643626735124
+  },
+  {
+    "gid": 42,
+    "nombre": "INST. DE KINESIOLOGIA A.C.I.C.",
+    "direccion": "ESPAÑA N°755",
+    "lng": -58.8289616555494,
+    "lat": -27.4665527875114
+  },
+  {
+    "gid": 40,
+    "nombre": "INST.CORRENTINO DE RADIODIAGNOSTICO ODONT.",
+    "direccion": "CORDOBA 547",
+    "lng": -58.8338081539345,
+    "lat": -27.4637973456671
+  }
+]

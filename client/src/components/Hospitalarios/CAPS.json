@@ -1,0 +1,100 @@
+[
+  {
+    "gid": 1,
+    "nombre": "CAPS X - B Molina Punta",
+    "direccion": "Bº Molina Punta s/n",
+    "lng": -58.7819590923969,
+    "lat": -27.4481289546666
+  },
+  {
+    "gid": 2,
+    "nombre": "CAPS VIII - B Santa Teresita",
+    "direccion": "A Ferreyra  S/N",
+    "lng": -58.8192604529781,
+    "lat": -27.4828552942385
+  },
+  {
+    "gid": 3,
+    "nombre": "CAPS II - Dr. Emilio Coni",
+    "direccion": "Av Gdor Ruiz al 2700",
+    "lng": -58.8159231252045,
+    "lat": -27.4670902034218
+  },
+  {
+    "gid": 4,
+    "nombre": "CAPS VI - Dr. Tiburcio Foncesa",
+    "direccion": "Remedios de Escala - Bº  Industrial",
+    "lng": -58.7897973885003,
+    "lat": -27.463102921413
+  },
+  {
+    "gid": 5,
+    "nombre": "CAPS I - B San José",
+    "direccion": "Baille y Saenz",
+    "lng": -58.793541644457,
+    "lat": -27.4811618992452
+  },
+  {
+    "gid": 6,
+    "nombre": "CAPS IX - B 17 de Agosto",
+    "direccion": "Av J.D. Peron y Turin",
+    "lng": -58.7837885190952,
+    "lat": -27.4904952268951
+  },
+  {
+    "gid": 7,
+    "nombre": "CAPS IV - Dr. Graciano Lugo",
+    "direccion": "Resoagli y Larrea",
+    "lng": -58.8050398173263,
+    "lat": -27.4897992947799
+  },
+  {
+    "gid": 8,
+    "nombre": "CAPS XI - B Quintana",
+    "direccion": "Loreto y Yugoslavia",
+    "lng": -58.7958442254535,
+    "lat": -27.5062091132563
+  },
+  {
+    "gid": 9,
+    "nombre": "CAPS III",
+    "direccion": "Cosquin y Paysandu",
+    "lng": -58.8250677983892,
+    "lat": -27.4945573571476
+  },
+  {
+    "gid": 10,
+    "nombre": "CAPS XIII",
+    "direccion": "Av. IV Centenario y Juan Manuel de Rosas",
+    "lng": -58.8378622785301,
+    "lat": -27.4949346081621
+  },
+  {
+    "gid": 11,
+    "nombre": "CAPS XIV",
+    "direccion": "Cabeza de Vaca e Irala",
+    "lng": -58.8439312144772,
+    "lat": -27.4905779469693
+  },
+  {
+    "gid": 12,
+    "nombre": "CAPS XII - B Ponce",
+    "direccion": "Joaquin Arqueros y Regera Britez",
+    "lng": -58.7699570575011,
+    "lat": -27.4871980921518
+  },
+  {
+    "gid": 13,
+    "nombre": "CAPS V - B Dr. Montana",
+    "direccion": "Gusti e/Boedo y Del Valle",
+    "lng": -58.7894924389591,
+    "lat": -27.5273372527229
+  },
+  {
+    "gid": 14,
+    "nombre": "CAPS VII - B Laguna Brava",
+    "direccion": "Ministro Fernandez y Mocito Acuña",
+    "lng": -58.7183760420995,
+    "lat": -27.4920693704595
+  }
+]
