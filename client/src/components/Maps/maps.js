@@ -1,102 +1,49 @@
-import React, { useState } from 'react';
-import ReactMapboxGl, {  Marker,  GeoJSONLayer } from 'react-mapbox-gl';
-import * as MapboxGL from 'mapbox-gl';
-import 'mapbox-gl/dist/mapbox-gl.css';
+import React from 'react';
 import style from './style.module.css';
-import axios from 'axios';
-const Maps = ({longitude,latitude, places, url}) =>{
-  const ACCES_TOKEN_MAPBOX = 'pk.eyJ1IjoibmFodWVsc2FuIiwiYSI6ImNraWwzeHp2cDBnM3IycnFtbXRwbG96NmcifQ.zGrjQhwZ39Mwz2TpCKBX-g'
-  const Map = ReactMapboxGl(
-    {accessToken: ACCES_TOKEN_MAPBOX},
-    
-  );
-  const [state, setState] = useState({
-      punto_mas_cercano: [],
-      punto: [longitude, latitude],
-      coordinates: []
-  })
-  const linePaint: MapboxGL.LinePaint = {
-    'line-color': 'red',
-    'line-width': 5
-  };
-  const puntoMasCercano = () =>{
-    var best;
-    var best_dif = 9999;
-    var dif;
-    for(var i = 1; i < places.length; ++i){
-      dif = Math.abs(latitude - places[i].lat) +
-              Math.abs(longitude - places[i].lng);
-      if(best_dif > dif){
-          best_dif = dif;
-          best = places[i];
-       }
-    }
-    setState({
-      ...state,
-      punto_mas_cercano: {lat : best.lat, lng :best.lng}
+import mapboxgl from 'mapbox-gl';
+import 'mapbox-gl/dist/mapbox-gl.css';
+import MapboxDirections from '@mapbox/mapbox-gl-directions/dist/mapbox-gl-directions'
+import '@mapbox/mapbox-gl-directions/dist/mapbox-gl-directions.css'
+
+mapboxgl.accessToken = "pk.eyJ1IjoibmFodWVsc2FuIiwiYSI6ImNraWwzeHp2cDBnM3IycnFtbXRwbG96NmcifQ.zGrjQhwZ39Mwz2TpCKBX-g"
+
+class Map extends React.Component {
+
+  componentDidMount(){
+    var {longitude, latitude} = this.props
+    const map = new mapboxgl.Map({
+        container: this.mapWrapper,
+        style: 'mapbox://styles/mapbox/streets-v10',
+        center: [ this.props.longitude, this.props.latitude],
+        zoom: 13
+    });
+    const directions = new MapboxDirections({
+        accessToken: mapboxgl.accessToken,
+        unit: 'metric',
+        profile: 'mapbox/walking',
+        alternatives: true,
+        language: 'es'
     })
-    
-    getRoutes();
+    map.addControl(directions,'top-left');
+    var marker 
+    this.props.places.map(place => 
+        marker = new mapboxgl.Marker()
+            .setLngLat([place.lng, place.lat])
+            .setPopup(new mapboxgl.Popup().setHTML(`<p>${place.ubicacion ? place.ubicacion : place.descripcion }<p>`))
+            .addTo(map)
+    )
+    map.on('load',  function() {
+        directions.setOrigin([longitude, latitude]); // can be address in form setOrigin("12, Elm Street, NY")
+    })
   }
-  const getRoutes = () =>{
-    console.log(latitude,longitude)
-    console.log(state.punto_mas_cercano.lat, state.punto_mas_cercano.lng)
-    axios(`https://api.mapbox.com/directions/v5/mapbox/walking/${latitude},${longitude};${state.punto_mas_cercano.lat},${state.punto_mas_cercano.lng}?geometries=geojson&access_token=${ACCES_TOKEN_MAPBOX}`)
-      .then(r => setState({
-        ...state,
-        coordinates: r.data
-      }))
-  }
-  const geojson = {
-    'type': 'FeatureCollection',
-    'features': [
-      {
-        'type': 'Feature',
-        'geometry': {
-          'type': 'LineString',
-          'coordinates': [
-            [
-              longitude,
-              latitude
-            ],
-            [
-              state.punto_mas_cercano.lng,
-              state.punto_mas_cercano.lat
-            ]
-          ]
-        }
-      }
-    ]
-  };
-  return(
-    <div>
-    <button onClick={puntoMasCercano}>Punto mas cercano</button>
-    <Map
-      style="mapbox://styles/mapbox/streets-v8"
-      containerStyle={{
-        height: '400px',
-        width: '100%'
-      }}
-      maxZoom={20}
-      center={[longitude, latitude]}
-    >
-      {
-        places.map(p => 
-          <Marker
-            key={p.gid}
-            coordinates={[p.lng, p.lat]}
-          >
-              <img className={style.icon} src={url}/>
-          </Marker>
-        )
-      }
-      <GeoJSONLayer
-      linePaint={linePaint}
-      data={geojson}
+
+  render() {
+    return (
+        <div 
+        ref={el => (this.mapWrapper = el)} 
+        className={style.mapWrapper}
       />
-    </Map>
-    </div>
-  )
+    );
+  }
 }
- 
-export default Maps;
+export default Map;

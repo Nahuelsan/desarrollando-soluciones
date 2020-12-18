@@ -11,3 +11,7 @@
     width: 40px;
     height: 40px;
 }
+.mapWrapper {
+    width: 100vw;
+    height: 100vh;
+}
