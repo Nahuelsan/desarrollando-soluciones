@@ -1,81 +1,31 @@
-import './App.css';
-import React, { useState } from 'react'; 
-import s from './estilos.module.css'; 
-import ZonaVerde from './components/ZonaVerde/index.js';
-import Hospitales from './components/Hospitalarios/index.js';
-import Sube from './components/Sube/index.js';
-import Paradas from './components/Paradas/index.js';
+import React from 'react';
+import { Route, Switch } from 'react-router-dom';
+import ZonaVerde from './components/ZonaVerde';
+import Medicina from './components/Hospitalarios';
+import Sube from './components/Sube';
+import Paradas from './components/Paradas';
+import Home from './components/Home';
+import Publicos from './components/Hospitalarios/publicos';
+import Privados from './components/Hospitalarios/privados';
+import Caps from './components/Hospitalarios/caps';
+import Saps from './components/Hospitalarios/saps';
 
-class App extends React.Component{
-  componentDidMount(){
-    this.geolocalitation()
-  }
-  state = {
-    zona_verde: false,
-    sube: false,
-    hospitalario: false,
-    paradas: false,
-    home: true,
-    latitude: '',
-    longitude: ''
-  }
-  geolocalitation = () => {
-    navigator.geolocation.getCurrentPosition(this.onSucccess, this.onError);
-    /* se ejecuta si los permisos son concedidos y se encuentra una ubicación*/
-  }
-  onSucccess = (position) => {
-    console.log(position.coords.latitude, position.coords.longitude);
-    this.setState({
-      latitude: position.coords.latitude,
-      longitude: position.coords.longitude
-    })
-  }
-  onError = () => {
-    console.log("ocurrio un error o no hay permisos para ver la ubicación");
-  }
-  clickSubmit = e => {
-    console.log(e.target)
-      this.setState({
-        [e.target.name]: (this.state[e.target.name] === false) ? true : false,
-        home: (this.state.home === false) ? true : false,
-      })
-
-    }
-
-    render() {
-      return (
-        <div className="App">
-            {
-              this.state.home === true &&
-            <div>
-            <h1>Corrientes</h1>
-            <button onClick={this.clickSubmit} name='zona_verde' className={s.zonaVerde}>ZONAS VERDES</button>
-            <button onClick={this.clickSubmit} name='sube' className={s.sube}>DONDE RECARGO SUBE</button>
-            <button onClick={this.clickSubmit} name='hospitalario' className={s.hospitales}>ATENCION MEDICA</button>
-            <button onClick={this.clickSubmit} name='paradas' className={s.paradas}>PARADAS DE COLECTIVO</button>
-            </div>
-            }
-            {
-              this.state.hospitalario === true &&
-              <Hospitales longitude={this.state.longitude} latitude={this.state.latitude} clickSubmit={this.clickSubmit}/>
-            }
-            {
-              this.state.sube === true &&
-              <Sube longitude={this.state.longitude} latitude={this.state.latitude} clickSubmit={this.clickSubmit}/>
-            }
-            {
-              this.state.zona_verde === true &&
-              <ZonaVerde longitude={this.state.longitude} latitude={this.state.latitude} clickSubmit={this.clickSubmit}/>
-            }
-            {
-              this.state.paradas === true &&
-              <Paradas longitude={this.state.longitude} latitude={this.state.latitude} clickSubmit={this.clickSubmit}/>
-            }
-    
+function App(){
+    return(
+        <div>
+            <Switch>
+                <Route exact path="/zona_verde" component={ZonaVerde}/>
+                <Route exact path="/paradas" component={Paradas}/>
+                <Route exact path="/sube" component={Sube}/>
+                <Route exact path="/atencion" component={Medicina}/>
+                <Route exact path="/atencion/caps" component={Caps}/>
+                <Route exact path="/atencion/saps" component={Saps}/>
+                <Route exact path="/atencion/publicos" component={Publicos}/>
+                <Route exact path="/atencion/privados" component={Privados}/>
+                <Route path="/" component={Home}/>
+            </Switch>
         </div>
-      );
-    }
+    )
 }
-
 
 export default App;

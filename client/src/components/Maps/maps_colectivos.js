@@ -7,7 +7,7 @@ import '@mapbox/mapbox-gl-directions/dist/mapbox-gl-directions.css'
 
 mapboxgl.accessToken = "pk.eyJ1IjoibmFodWVsc2FuIiwiYSI6ImNraWwzeHp2cDBnM3IycnFtbXRwbG96NmcifQ.zGrjQhwZ39Mwz2TpCKBX-g"
 
-class Map extends React.Component {
+class MapColectivos extends React.Component {
   
   componentDidMount(){
     var {longitude, latitude} = this.props
@@ -28,7 +28,7 @@ class Map extends React.Component {
     var marker 
     this.props.places.map(place => 
         marker = new mapboxgl.Marker()
-            .setLngLat([place.lng, place.lat])
+            .setLngLat([place.lng.replace(/['"]+/g, ''), place.lat.replace(/['"]+/g, '')])
             .setPopup(new mapboxgl.Popup().setHTML(`<div>${place.nombre ? place.nombre : place.descripcion}</div> <div>${place.direccion ? place.direccion : ""}</div>`))
             .addTo(map)
     )
@@ -46,4 +46,4 @@ class Map extends React.Component {
     );
   }
 }
-export default Map;
+export default MapColectivos;

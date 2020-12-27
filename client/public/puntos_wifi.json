@@ -1,0 +1,107 @@
+[
+  {
+    "gid": 1,
+    "lng": -58.8144562934718,
+    "lat": -27.4982463131445,
+    "id": 1,
+    "lugar": "TERMINAL DE OMNIBUS"
+  },
+  {
+    "gid": 2,
+    "lng": -58.7890707386638,
+    "lat": -27.4756579458257,
+    "id": 2,
+    "lugar": "Plaza del Bicentenario"
+  },
+  {
+    "gid": 3,
+    "lng": -58.7817327799156,
+    "lat": -27.4486874796888,
+    "id": 3,
+    "lugar": "Centro Comercial Molina Punta"
+  },
+  {
+    "gid": 4,
+    "lng": -58.8437571254256,
+    "lat": -27.4649335019405,
+    "id": 4,
+    "lugar": "Parque Camba Cua"
+  },
+  {
+    "gid": 5,
+    "lng": -58.7983435522441,
+    "lat": -27.4641310522687,
+    "id": 5,
+    "lugar": "Centro Integrador Comunitario Bo Anahi"
+  },
+  {
+    "gid": 6,
+    "lng": -58.8312619064501,
+    "lat": -27.4686257360904,
+    "id": 6,
+    "lugar": "Plaza Cabral"
+  },
+  {
+    "gid": 7,
+    "lng": -58.8477298648164,
+    "lat": -27.4649707856234,
+    "id": 7,
+    "lugar": "Costanera Norte"
+  },
+  {
+    "gid": 8,
+    "lng": -58.8382339980337,
+    "lat": -27.4614697646489,
+    "id": 8,
+    "lugar": "Puerto (Centro de transbordo local)"
+  },
+  {
+    "gid": 9,
+    "lng": -58.8560736398462,
+    "lat": -27.4761070796862,
+    "id": 9,
+    "lugar": "Playa Arazaty 1"
+  },
+  {
+    "gid": 10,
+    "lng": -58.8543421220369,
+    "lat": -27.4811607220475,
+    "id": 10,
+    "lugar": "Rotonda Costanera Sur"
+  },
+  {
+    "gid": 11,
+    "lng": -58.8537313809032,
+    "lat": -27.468477278791,
+    "id": 11,
+    "lugar": "Playa Malvinas 1"
+  },
+  {
+    "gid": 12,
+    "lng": -58.855191731425,
+    "lat": -27.4707532981581,
+    "id": 12,
+    "lugar": "Playa Malvinas 2"
+  },
+  {
+    "gid": 13,
+    "lng": -58.8371297392946,
+    "lat": -27.4671640826561,
+    "id": 13,
+    "lugar": "Plaza Vera"
+  },
+  {
+    "gid": 14,
+    "lng": -58.8556649792177,
+    "lat": -27.4778626772519,
+    "id": 14,
+    "lugar": "Playa Arazaty 2 (2)"
+  },
+  {
+    "gid": 15,
+    "lng": -58.8360552966754,
+    "lat": -27.4644339548347,
+    "id": 15,
+    "lugar": "Palacio Municipal"
+  }
+]

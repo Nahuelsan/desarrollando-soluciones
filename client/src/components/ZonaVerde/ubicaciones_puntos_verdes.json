@@ -1,67 +1,67 @@
 [
   {
     "gid": 2,
-    "ubicacion": "DELEGACION LAGUNA SECA",
+    "nombre": "DELEGACION LAGUNA SECA",
     "lng": -58.8012110335546,
     "lat": -27.4926553806912
   },
   {
     "gid": 3,
-    "ubicacion": "DELEGACION DR. MONTAÑA",
+    "nombre": "DELEGACION DR. MONTAÑA",
     "lng": -58.7938458056977,
     "lat": -27.520051618811
   },
   {
     "gid": 4,
-    "ubicacion": "DELEGACION SAN GERONIMO",
+    "nombre": "DELEGACION SAN GERONIMO",
     "lng": -58.7889302841941,
     "lat": -27.4756630577726
   },
   {
     "gid": 5,
-    "ubicacion": "DELEGACION SAN MARTIN",
+    "nombre": "DELEGACION SAN MARTIN",
     "lng": -58.8363137769374,
     "lat": -27.4767310872198
   },
   {
     "gid": 6,
-    "ubicacion": "DELEGACION 17 DE AGOSTO",
+    "nombre": "DELEGACION 17 DE AGOSTO",
     "lng": -58.7836697579635,
     "lat": -27.4904117680474
   },
   {
     "gid": 1,
-    "ubicacion": "DELEGACION DR. NICOLINI",
+    "nombre": "DELEGACION DR. NICOLINI",
     "lng": -58.8294344126664,
     "lat": -27.4943231811313
   },
   {
     "gid": 7,
-    "ubicacion": "PLAZA LIBERTAD",
+    "nombre": "PLAZA LIBERTAD",
     "lng": -58.8219158161028,
     "lat": -27.4702864920621
   },
   {
     "gid": 8,
-    "ubicacion": "PARQUE CAMBA CUA",
+    "nombre": "PARQUE CAMBA CUA",
     "lng": -58.8453100515131,
     "lat": -27.4656193075848
   },
   {
     "gid": 11,
-    "ubicacion": "PLAZA TORRENT",
+    "nombre": "PLAZA TORRENT",
     "lng": -58.8333311038115,
     "lat": -27.4722375150389
   },
   {
     "gid": 12,
-    "ubicacion": "PARQUE MITRE",
+    "nombre": "PARQUE MITRE",
     "lng": -58.8274766908393,
     "lat": -27.4603398897831
   },
   {
     "gid": 13,
-    "ubicacion": "PLAZA VERA",
+    "nombre": "PLAZA VERA",
     "lng": -58.8374141540666,
     "lat": -27.4672467119459
   }

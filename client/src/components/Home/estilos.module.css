@@ -1,0 +1,51 @@
+*{
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New';
+
+}
+.zonaVerde{
+    margin-right: 20px;
+    margin-bottom: 20px;
+    outline:none;
+    border-radius: 50px;
+    width: 130px;
+    height: 90px;
+    background-color: #b8de6f ;
+    font-size: 20px;
+}
+.paradas{
+    margin-left: 20px;
+    outline:none;
+    border-radius: 50px;
+    width: 130px;
+    height: 90px;
+    background-color: #d6e0f0;
+    font-size: 20px;
+
+}
+
+.hospitales{
+    outline:none;
+    border-radius: 50px;
+    width: 130px;
+    height: 90px;
+    background-color: #f6f6f6;
+    font-size: 20px;
+}
+.sube{
+    outline:none;
+    border-radius: 50px;
+    width: 130px;
+    height: 90px;
+    background-color: #a3d2ca;
+    font-size: 20px;
+    font-weight: bold;
+    color: #007;
+}
+
+.cabecera{
+    margin-top: 0;
+    align-items: center;
+    height: 50px;
+    background-color: #59886b;
+    border: 2px solid #045762;
+}

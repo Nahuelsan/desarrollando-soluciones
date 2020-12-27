@@ -1,22 +1,50 @@
+//Iconos
+import ChevronLeftIcon from '@material-ui/icons/ChevronLeft';
+import ExploreIcon from '@material-ui/icons/Explore';
+//Hoosk react
 import React, { useState } from 'react';
-import Maps from '../Maps/maps.js';
-
-function Paradas({clickSubmit, latitude, longitude}){
-    const [state] = useState({
-        latitude: latitude,
-        longitude: longitude
+//Componente Mapa
+import Maps from '../Maps/maps_colectivos.js';
+import paradas from './paradas-colectivos.json';
+function Paradas(){
+    const [state, setState] = useState({
+        latitude: '',
+        longitude: '',
+        paradas: ''
     })
-    const backToHome = e => {
-        clickSubmit(e)
+    navigator.geolocation.getCurrentPosition(onSucccess, onError);
+
+    function onSucccess (position){
+        console.log(position.coords.latitude, position.coords.longitude);
+        setState({
+          latitude: position.coords.latitude,
+          longitude: position.coords.longitude
+        })
+      }
+    
+    function onError (){
+        console.log("ocurrio un error o no hay permisos para ver la ubicación");
     }
+
     return(
         <div>
-            <h1>Bienvenido a los recorridos de los colectivos</h1>
-            <p>Puede ver los recorridos de las lineas que prefieras</p>
-            <p>¿A dónde quieres ir?</p>
-            <input type="text-area"></input>            
-            <Maps longitude={state.longitude} latitude={state.latitude}/> 
-            <button onClick={backToHome} name='paradas'>Volver al INICIO</button>
+            <div class="jumbotron jumbotron-fluid">
+                <div class="container">
+                    <h1 class="display-4">Bienvenido a seccion transporte</h1>
+                    <p class="lead">Aquí puedes ver los recorridos</p>
+                    <p>- El punto A es tu posición actual</p>
+                    <p>Volver atras</p>
+                    <a href="http://localhost:3000/">
+                    <button >
+                        <ChevronLeftIcon /> 
+                    </button>
+                    </a>
+                </div>
+            </div>
+ 
+            {
+                state.longitude === "" ? null : <Maps longitude={state.longitude} latitude={state.latitude} places={paradas} url={state.url}/> 
+            }
         </div>
     )
 }
