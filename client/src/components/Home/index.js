@@ -21,25 +21,25 @@ class App extends React.Component{
                 <p>Consultar paradas de colectivos</p>
             </div>
             </div>
-            <a href="http://localhost:3000/zona_verde">
+            <a href={`${process.env.REACT_APP_API_URL}/zona_verde`}>
             <button name='zona_verde' className={s.zonaVerde}>
               
               <EcoIcon />
             </button>
             </a>
 
-            <a href="http://localhost:3000/sube">
+            <a href={`${process.env.REACT_APP_API_URL}/sube`}>
             <button className={s.sube}>
               SUBE
             </button>
             </a>
             <div>
-            <a href="http://localhost:3000/atencion">
+            <a href={`${process.env.REACT_APP_API_URL}/atencion`}>
             <button className={s.hospitales}>
               <LocalHospitalRoundedIcon color="secondary" ></LocalHospitalRoundedIcon>
             </button>
             </a>
-            <a href="http://localhost:3000/paradas">
+            <a href={`${process.env.REACT_APP_API_URL}/paradas`}>
             <button className={s.paradas}>
               <DirectionsBusIcon></DirectionsBusIcon>
             </button>
