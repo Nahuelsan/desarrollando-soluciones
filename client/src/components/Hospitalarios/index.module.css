@@ -1,0 +1,16 @@
+.boton{
+    text-align: center;
+    border-radius: 15px;
+}
+
+.contenedor{
+    text-align: center;
+}
+
+.botones{
+    text-align: center;
+    border-radius: 15px;
+    width: 200px;
+    margin-bottom: 10px;
+    background-color: rgba(0,0,255,0.4);
+}

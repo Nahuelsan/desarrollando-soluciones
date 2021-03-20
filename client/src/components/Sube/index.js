@@ -1,9 +1,9 @@
 //Iconos
 import ChevronLeftIcon from '@material-ui/icons/ChevronLeft';
+//Hooks react
+import React, {useState, useEffect} from 'react';
 //Geolocalization de los puntos
 import punto_sube from './puntos_sube.json';
-//Hooks react
-import React, {useState} from 'react';
 //Estilo
 import s from './index.module.css';
 //Componente Mapa
@@ -13,10 +13,34 @@ function Sube(){
     const [state, setState] = useState({
         latitude: '',
         longitude: '',
-        punto_sube,
+        lugar_mas_cercano: '',
         url: 'https://play-lh.googleusercontent.com/97b6LQgxJ78yKGxois8pN2KS21TV-0i8zlqUQ5Y8iUoVkMVWD6EPej1d2fCJZtltYQ'
     })
-    navigator.geolocation.getCurrentPosition(onSucccess, onError);
+    var mas_cercano = 0;
+    useEffect(() => {
+        if(state.longitude === ''){
+            navigator.geolocation.getCurrentPosition(onSucccess, onError);  
+        }
+        if(state.lugar_mas_cercano === ''){
+            var best;
+            var point = {lat: state.latitude, lng: state.longitude};
+            var best_dif = 9999;
+            var dif;
+            for(let i = 1; i < punto_sube.length; ++i){
+                dif = Math.abs(point.lat - punto_sube[i].lat) +
+                        Math.abs(point.lng - punto_sube[i].lng);
+                if(best_dif > dif){
+                    best_dif = dif;
+                    best = punto_sube[i];
+                }
+            }
+            mas_cercano = best;
+            console.log(best)
+            console.log(mas_cercano)
+            console.log(state.lugar_mas_cercano)
+        }
+        console.log(mas_cercano)
+    })
 
     function onSucccess (position){
         console.log(position.coords.latitude, position.coords.longitude);
@@ -48,7 +72,7 @@ function Sube(){
                 </div>
             </div>
             {
-                state.longitude === "" ? null : <Maps longitude={state.longitude} latitude={state.latitude} places={punto_sube} url={state.url}/> 
+                state.longitude === "" ? null : <Maps longitude={state.longitude} latitude={state.latitude} places={punto_sube} url={state.url} mas_cercano={mas_cercano}/> 
             }
         </div>
     )

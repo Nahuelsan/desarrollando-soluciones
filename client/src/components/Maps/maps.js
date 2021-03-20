@@ -8,10 +8,28 @@ import '@mapbox/mapbox-gl-directions/dist/mapbox-gl-directions.css'
 mapboxgl.accessToken = "pk.eyJ1IjoibmFodWVsc2FuIiwiYSI6ImNraWwzeHp2cDBnM3IycnFtbXRwbG96NmcifQ.zGrjQhwZ39Mwz2TpCKBX-g"
 
 class Map extends React.Component {
-  
+
+  getEventHandlers() {
+    return {
+      onClick: (properties, coords, offset) =>
+        console.log(`Receive event onClick at properties: ${properties}, coords: ${coords}, offset: ${offset}`),
+      onMouseEnter: (properties, coords, offset) =>
+        console.log(`Receive event onMouseEnter at properties: ${properties}, coords: ${coords}, offset: ${offset}`),
+      onMouseLeave: (properties, coords, offset) =>
+        console.log(`Receive event onMouseLeave at properties: ${properties}, coords: ${coords}, offset: ${offset}`),
+      onClusterClick: (properties, coords, offset) =>
+        console.log(`Receive event onClusterClick at properties: ${properties}, coords: ${coords}, offset: ${offset}`),
+    };
+  }
+
   componentDidMount(){
+    const mapProps = {
+      center: [this.props.longitude, this.props.latitude],
+      zoom: [3],
+      style: 'mapbox://styles/mapbox/streets-v8',
+    };
     var {longitude, latitude} = this.props
-    const map = new mapboxgl.Map({
+    const Map = new mapboxgl.Map({
         container: this.mapWrapper,
         style: 'mapbox://styles/mapbox/streets-v10',
         center: [ this.props.longitude, this.props.latitude],
@@ -24,22 +42,25 @@ class Map extends React.Component {
         alternatives: true,
         language: 'es'
     })
-    map.addControl(directions,'top-left');
+    Map.addControl(directions,'top-left');
     var marker 
+
     this.props.places.map(place => 
         marker = new mapboxgl.Marker()
             .setLngLat([place.lng, place.lat])
             .setPopup(new mapboxgl.Popup().setHTML(`<div>${place.nombre ? place.nombre : place.descripcion}</div> <div>${place.direccion ? place.direccion : ""}</div>`))
-            .addTo(map)
+            .addTo(Map)
     )
-    map.on('load',  function() {
+        
+    Map.on('load',  function() {
         directions.setOrigin([longitude, latitude]);
     })
   }
 
   render() {
     return (
-        <div 
+
+      <div 
         ref={el => (this.mapWrapper = el)} 
         className={style.mapWrapper}
       />
@@ -47,3 +68,7 @@ class Map extends React.Component {
   }
 }
 export default Map;
+{/*         <div 
+        ref={el => (this.mapWrapper = el)} 
+        className={style.mapWrapper}
+      /> */}
