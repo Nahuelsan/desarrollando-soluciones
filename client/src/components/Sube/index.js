@@ -13,15 +13,27 @@ function Sube(){
     const [state, setState] = useState({
         latitude: '',
         longitude: '',
-        lugar_mas_cercano: '',
+        mas_cercano: '',
         url: 'https://play-lh.googleusercontent.com/97b6LQgxJ78yKGxois8pN2KS21TV-0i8zlqUQ5Y8iUoVkMVWD6EPej1d2fCJZtltYQ'
     })
-    var mas_cercano = 0;
     useEffect(() => {
-        if(state.longitude === ''){
-            navigator.geolocation.getCurrentPosition(onSucccess, onError);  
+        navigator.geolocation.getCurrentPosition(onSucccess, onError); 
+    }, []);
+
+    function onSucccess (position){
+        console.log(position.coords.latitude, position.coords.longitude)
+        async function Coordinates(){
+            await masCercano()
         }
-        if(state.lugar_mas_cercano === ''){
+        setState({
+          ...state,
+          latitude: position.coords.latitude,
+          longitude: position.coords.longitude
+        })
+        Coordinates()
+      }
+    async function masCercano (){
+        var mas_cercano = 0;
             var best;
             var point = {lat: state.latitude, lng: state.longitude};
             var best_dif = 9999;
@@ -35,21 +47,12 @@ function Sube(){
                 }
             }
             mas_cercano = best;
-            console.log(best)
             console.log(mas_cercano)
-            console.log(state.lugar_mas_cercano)
-        }
-        console.log(mas_cercano)
-    })
-
-    function onSucccess (position){
-        console.log(position.coords.latitude, position.coords.longitude);
-        setState({
-          latitude: position.coords.latitude,
-          longitude: position.coords.longitude
-        })
-      }
-    
+            setState({
+                ...state,
+                mas_cercano:{ lng :mas_cercano.lng, lat: mas_cercano.lat}
+            })
+    }
     function onError (){
         console.log("ocurrio un error o no hay permisos para ver la ubicación");
     }
@@ -72,7 +75,7 @@ function Sube(){
                 </div>
             </div>
             {
-                state.longitude === "" ? null : <Maps longitude={state.longitude} latitude={state.latitude} places={punto_sube} url={state.url} mas_cercano={mas_cercano}/> 
+                state.longitude === "" ? null : <Maps longitude={state.longitude} latitude={state.latitude} places={punto_sube} url={state.url} mas_cercano={state.mas_cercano}/> 
             }
         </div>
     )

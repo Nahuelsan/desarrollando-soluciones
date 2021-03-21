@@ -8,26 +8,51 @@ function Caps(){
     const [state, setState] = useState({
         latitude: '',
         longitude: '',
+        mas_cercano: '',
         url: 'https://play-lh.googleusercontent.com/97b6LQgxJ78yKGxois8pN2KS21TV-0i8zlqUQ5Y8iUoVkMVWD6EPej1d2fCJZtltYQ'
     })
     useEffect(() => {
         if(state.longitude === ''){
             navigator.geolocation.getCurrentPosition(onSucccess, onError);  
         }
-    })
+    }, [])
 
     function onSucccess (position){
-        console.log(position.coords.latitude, position.coords.longitude);
         setState({
+          ...state,
           latitude: position.coords.latitude,
           longitude: position.coords.longitude
         })
+        async function Coordinates(){
+            await masCercano()
+        }
+        Coordinates()
       }
     
     function onError (){
         console.log("ocurrio un error o no hay permisos para ver la ubicación");
     }
-
+    async function masCercano (){
+        var mas_cercano = 0;
+            var best;
+            var point = {lat: state.latitude, lng: state.longitude};
+            var best_dif = 9999;
+            var dif;
+            for(let i = 1; i < publicos.length; ++i){
+                dif = Math.abs(point.lat - publicos[i].lat) +
+                        Math.abs(point.lng - publicos[i].lng);
+                if(best_dif > dif){
+                    best_dif = dif;
+                    best = publicos[i];
+                }
+            }
+            mas_cercano = best;
+            console.log(mas_cercano)
+            setState({
+                ...state,
+                mas_cercano:{ lng :mas_cercano.lng, lat: mas_cercano.lat}
+            })
+    }
     return (
         <div>
             <div class="jumbotron jumbotron-fluid">
@@ -51,7 +76,7 @@ function Caps(){
             </div>
 
             {
-                state.longitude === "" ? null : <Maps longitude={state.longitude} latitude={state.latitude} places={publicos} url={state.url}/> 
+                state.longitude === "" ? null : <Maps longitude={state.longitude} latitude={state.latitude} places={publicos} url={state.url} mas_cercano={state.mas_cercano}/> 
             }
 
             

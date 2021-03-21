@@ -4,8 +4,7 @@ import mapboxgl from 'mapbox-gl';
 import 'mapbox-gl/dist/mapbox-gl.css';
 import MapboxDirections from '@mapbox/mapbox-gl-directions/dist/mapbox-gl-directions'
 import '@mapbox/mapbox-gl-directions/dist/mapbox-gl-directions.css'
-
-mapboxgl.accessToken = "pk.eyJ1IjoibmFodWVsc2FuIiwiYSI6ImNraWwzeHp2cDBnM3IycnFtbXRwbG96NmcifQ.zGrjQhwZ39Mwz2TpCKBX-g"
+mapboxgl.accessToken = `${process.env.REACT_APP_MAPBOX_KEY}`
 
 class Map extends React.Component {
 
@@ -23,17 +22,13 @@ class Map extends React.Component {
   }
 
   componentDidMount(){
-    const mapProps = {
-      center: [this.props.longitude, this.props.latitude],
-      zoom: [3],
-      style: 'mapbox://styles/mapbox/streets-v8',
-    };
-    var {longitude, latitude} = this.props
+
+    var {longitude, latitude, mas_cercano} = this.props
     const Map = new mapboxgl.Map({
         container: this.mapWrapper,
-        style: 'mapbox://styles/mapbox/streets-v10',
+        style: 'mapbox://styles/mapbox/dark-v10',
         center: [ this.props.longitude, this.props.latitude],
-        zoom: 13
+        zoom: 15
     });
     const directions = new MapboxDirections({
         accessToken: mapboxgl.accessToken,
@@ -52,11 +47,16 @@ class Map extends React.Component {
             .addTo(Map)
     )
         
-    Map.on('load',  function() {
+    Map.on('load', function() {
         directions.setOrigin([longitude, latitude]);
-    })
-  }
+        directions.setDestination([mas_cercano.lng, mas_cercano.lat])
+        console.log(this.props)
 
+    })
+   
+    console.log(Map)
+  }
+  
   render() {
     return (
 
@@ -68,7 +68,3 @@ class Map extends React.Component {
   }
 }
 export default Map;
-{/*         <div 
-        ref={el => (this.mapWrapper = el)} 
-        className={style.mapWrapper}
-      /> */}
